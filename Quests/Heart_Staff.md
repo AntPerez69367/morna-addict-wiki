@@ -2,7 +2,7 @@
 title: Heart Staff
 description: 
 published: true
-date: 2020-10-05T21:35:59.886Z
+date: 2020-10-05T21:42:07.132Z
 tags: 
 editor: markdown
 dateCreated: 2020-10-05T21:35:17.900Z
@@ -27,7 +27,7 @@ graph TD;
 </center>
 <br />
 
-> **Warning**: Upon making a Heart Staff your karma will drop to 0 and you may be unable to progress through the armor quest line until you get it back up to the required level.
+> **Warning**: Upon making a Heart Staff your karma will drop to 0 and you may be unable to progress through the armor quest lines until you get it back up to the required level.
 {.is-warning}
 
 # Tabs {.tabset}
@@ -42,4 +42,14 @@ graph TD;
 
 2. There are 4 totems representing each of the classes. Find your totem and click on it.
 
+<center>
+  
+    | Class | Totem |
+    | --- | --- |
+    | Fighter | Dragon (022,011) |
+    | Scoundrel | Tiger (010,023) |
+    | Wizard | Phoenix (024,025) |
+    | Priest | Turtle (007,011) |
+
+</center>
    
