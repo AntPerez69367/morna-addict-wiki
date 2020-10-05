@@ -2,7 +2,7 @@
 title: Heart Staff
 description: 
 published: true
-date: 2020-10-05T21:42:07.132Z
+date: 2020-10-05T22:28:03.628Z
 tags: 
 editor: markdown
 dateCreated: 2020-10-05T21:35:17.900Z
@@ -42,7 +42,7 @@ graph TD;
 
 2. There are 4 totems representing each of the classes. Find your totem and click on it.
 
-<center>
+
   
     | Class | Totem |
     | --- | --- |
@@ -51,5 +51,5 @@ graph TD;
     | Wizard | Phoenix (024,025) |
     | Priest | Turtle (007,011) |
 
-</center>
+
    
