@@ -2,7 +2,7 @@
 title: Heart Staff
 description: 
 published: true
-date: 2020-10-05T21:35:17.901Z
+date: 2020-10-05T21:35:59.886Z
 tags: 
 editor: markdown
 dateCreated: 2020-10-05T21:35:17.900Z
@@ -27,13 +27,14 @@ graph TD;
 </center>
 <br />
 
+> **Warning**: Upon making a Heart Staff your karma will drop to 0 and you may be unable to progress through the armor quest line until you get it back up to the required level.
+{.is-warning}
+
 # Tabs {.tabset}
 
 ## Option 1
 1.  Upon reaching 30 points of Karma you will receive a pop-up asking if you would like to make the staff or not.
 
-> **Warning**: Upon making a Heart Staff your karma will drop to 0 and you may be unable to progress through the armor quest line until you get it back up to the required level.
-{.is-warning}
 
 ## Option 2
 
