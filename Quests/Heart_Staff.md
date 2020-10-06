@@ -2,7 +2,7 @@
 title: Heart Staff
 description: 
 published: true
-date: 2020-10-06T04:30:39.353Z
+date: 2020-10-06T04:31:06.703Z
 tags: 
 editor: markdown
 dateCreated: 2020-10-05T21:35:17.900Z
@@ -29,6 +29,9 @@ graph TD;
 
 > **Warning**: Upon making a Heart Staff your karma will drop to 0 and you may be unable to progress through the armor quest lines until you get it back up to the required level.
 {.is-warning}
+
+<br />
+<br />
 
 # Tabs {.tabset}
 
