@@ -2,7 +2,7 @@
 title: Heart Staff
 description: 
 published: true
-date: 2020-10-05T22:28:03.628Z
+date: 2020-10-06T04:30:39.353Z
 tags: 
 editor: markdown
 dateCreated: 2020-10-05T21:35:17.900Z
@@ -42,8 +42,6 @@ graph TD;
 
 2. There are 4 totems representing each of the classes. Find your totem and click on it.
 
-
-  
     | Class | Totem |
     | --- | --- |
     | Fighter | Dragon (022,011) |
@@ -51,5 +49,11 @@ graph TD;
     | Wizard | Phoenix (024,025) |
     | Priest | Turtle (007,011) |
 
+3. Click on the totem belonging to your class and select the option 'A Brilliant Light'.
+
+4. Continue through the dialog until you receive your Heart Staff. 
+
+> This step will drop your Karma to 0. Be aware that you may lose the ability to work on armor quests or anything that is gated behind a required karma level until you fix your karma.
+{.is-warning}
 
    
