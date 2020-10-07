@@ -2,7 +2,7 @@
 title: Quests
 description: 
 published: true
-date: 2020-10-05T22:26:32.419Z
+date: 2020-10-07T21:24:22.385Z
 tags: quest
 editor: markdown
 dateCreated: 2020-10-05T20:48:57.196Z
