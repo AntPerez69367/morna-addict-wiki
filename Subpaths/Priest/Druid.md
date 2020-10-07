@@ -2,17 +2,14 @@
 title: Druid
 description: Druid information
 published: true
-date: 2020-10-07T21:35:27.617Z
+date: 2020-10-07T21:37:40.555Z
 tags: 
 editor: markdown
 dateCreated: 2020-10-07T21:35:27.617Z
 ---
 
 # Druid
-  ## Playstyle
-  ## Role
-  ## Subpaths
+  ## Lore
+  ## Elders and Guides
   ## Spells
   
- 
- 
