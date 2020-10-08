@@ -2,7 +2,7 @@
 title: Quests
 description: 
 published: true
-date: 2020-10-08T19:52:17.262Z
+date: 2020-10-08T23:34:01.840Z
 tags: quest
 editor: markdown
 dateCreated: 2020-10-05T20:48:57.196Z
@@ -231,3 +231,105 @@ Listed below are some of the known Armor/Weapons quest that are available in Mor
  
 >  *Most armor quests will not show up at your trainer unless you have the required Karma to sacrifice, some require more than what is taken at the end of the quest.*
 {.is-info}
+
+## Tabs {.tabset}
+## Level 66: Hero Armor
+ - Go to your path trainer and click the "Hero" option
+ - Kill 2 Muck and Slime Ogre (Can be found in Lortz, level 63 to enter Grim Barrens: 027,001, these two bosses look identical but are seperated by Northern and Southern rooms)
+ - Return to trainer and they will ask you to bring 2 of your Non-Mythic level 50 hand items (Fighter: Crimson Gauntlets, Wizard: Magic Ring, Priest: Guiding Hand, Scoundrel: Whisper Bracelet)
+ - Turn in 1 of your paths ogre weapons (Fighter: Electra, Wizard: Paragon Staff, Scoundrel: Steelthorn, Priest: Elm Staff)
+ - Takes 1 point of Karma 
+
+## Tabs {.tabset}
+## Level 76: Master Armor
+
+ - Kill Horse Do (Mythic Horse item boss)
+ - Kill 25 fat pigs (Fattest ones, can be found in key boss room and beyong)
+ - Kill 50 Brown Wolves (Woods North of Hon, level 63 Wolf Den 028, 052)
+ - Turn in 50 Raw Rubies
+ - 3 lvl 75 ogre weapons for your class (Electra, Elm Staff, Steelthorn, Paragon Staff)
+ - 2 lvl 50 path hand items for your class(Crimson Gauntlet, Guiding Hand, Whisper Bracelet, Magic Ring)
+ - Trigram Keyset (Obtained by using creation system: Combine Rune Keys Earth, Fire, Water, Wind, Thunder, Pond, Mountain, Heaven)
+ - Weapon from Lortz weapon quest, will become bound to you (Complete Mitch's weapon quest from Lortz inn, Chopper, Maimer, Silencer, ? )
+ - Takes 2 points of Karma 
+ 
+## Tabs {.tabset}
+## Level 86: Paragon of the Sun
+ 
+ - Kill both Mythic Rabbit bosses
+ - Kill both Mythic Monkey bosses
+ - Kill 60 Ogre Warrior and 60 Ogre Champions (Found in N Lortz 84 Ogres, top right entrance, cave is hidden inside immediately to the left)
+ - Kill 200 Rabbits
+ - Kill 200 Squirrels
+ - 20 Raw Hematite
+ - 3 lvl 50 path hand items for your class (Crimson Gauntlet, Guiding Hand, Whisper Bracelet, Magic Ring)
+ - 5 lvl 75 ogre weapons for your class (Electra, Elm Staff, Steelthorn, Paragon Staff)
+ - 2 Glow Maces (Carnage Prize)
+ - 2 Glow Swords (Carnage Prize)
+ - 2 Ball of Fire ((Carnage Prize, drops only in rooster 2 sentries)
+ - 10 Gold Acorn
+ - 50000 coins
+ - Takes 4 points of Karma 
+ 
+## Tabs {.tabset}
+## Level 96: Bolstered by the Winds
+
+ - Requires 12 Karma to begin quest
+ - Kill Blackstrike and Mega Mudman OR Glow Skull and Freddy the Flayer
+ - Kill both mythic dog bosses
+ - 50 Blizzard ogres + 1 Blizzard king
+ - 200 Tomb robbers
+ - 100 Grave Plfierers
+ - 50 Raw hematite
+ - 1 Mythic hand item of your path
+ - 1 95 Weapon of your path
+ - 3 Glow Mace
+ - 3 Glow Sword
+ - 3 Ball of fire
+ - 100 horse meat
+ - 100,000 Coins
+ - Takes some karma 
+ 
+## Tabs {.tabset}
+## Level 99: Strengthened by Wealth
+
+ - 1 Million Coins
+ 
+## Tabs {.tabset}
+## Mark I: Braced by Faith
+ 
+ - Kill 2 Mythic Rooster Spirits and 2 Mythic Rooster Avengers
+ - 2 Mythic hand items of your path
+ - 2 95 Weapons of your path 
+ 
+## Tabs {.tabset}
+## Mark II: Fortified by Spirit
+
+ - Ox Avenger
+ - 200 plump pink pigs (Mythic)
+ - 200 Kulus in Robbers lair
+ - 100 Raw Malchites
+ - 3 95 weapons of your path
+ - 5 50 hand items of your path
+ - 2 Key sets
+ - Virtuoso blade
+ - Will TAKE karma (2 pts I think) 
+ 
+ ## Tabs {.tabset}
+ ## Mark III: Banded by Iron
+ 
+ - Must have 18 Karma to begin this quest
+ - Kill mythic sheep or mythic tiger bosses
+ - Kill mythic dragon bosses or Lortz Fenris and the Lortz Rabbit boss
+ - Kill plantation boss & 100 human trap plant (last room plantation)
+ - 200 Kulu Tamer (Lortz Occupied)
+ - 200 Majors (Lortz bears)
+ - 100 raw hematite
+ - 5 Mythic hand item of your path
+ - 5 95 Weapon of your path
+ - 5 Glow mace
+ - 5 Glow sword
+ - 5 Ball of fire
+ - 100 raw malchite
+ - 500k gold 
+ 
