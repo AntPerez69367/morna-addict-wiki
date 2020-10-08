@@ -2,7 +2,7 @@
 title: Quests
 description: 
 published: true
-date: 2020-10-08T23:35:29.266Z
+date: 2020-10-08T23:39:42.252Z
 tags: quest
 editor: markdown
 dateCreated: 2020-10-05T20:48:57.196Z
@@ -240,7 +240,6 @@ Listed below are some of the known Armor/Weapons quest that are available in Mor
  - Turn in 1 of your paths ogre weapons (Fighter: Electra, Wizard: Paragon Staff, Scoundrel: Steelthorn, Priest: Elm Staff)
  - Takes 1 point of Karma 
 
-## Tabs {.tabset}
 ### Level 76: Master Armor
 
  - Kill Horse Do (Mythic Horse item boss)
@@ -253,7 +252,6 @@ Listed below are some of the known Armor/Weapons quest that are available in Mor
  - Weapon from Lortz weapon quest, will become bound to you (Complete Mitch's weapon quest from Lortz inn, Chopper, Maimer, Silencer, ? )
  - Takes 2 points of Karma 
  
-## Tabs {.tabset}
 ### Level 86: Paragon of the Sun
  
  - Kill both Mythic Rabbit bosses
@@ -271,7 +269,6 @@ Listed below are some of the known Armor/Weapons quest that are available in Mor
  - 50000 coins
  - Takes 4 points of Karma 
  
-## Tabs {.tabset}
 ### Level 96: Bolstered by the Winds
 
  - Requires 12 Karma to begin quest
@@ -290,19 +287,16 @@ Listed below are some of the known Armor/Weapons quest that are available in Mor
  - 100,000 Coins
  - Takes some karma 
  
-## Tabs {.tabset}
 ### Level 99: Strengthened by Wealth
 
  - 1 Million Coins
  
-## Tabs {.tabset}
 ### Mark I: Braced by Faith
  
  - Kill 2 Mythic Rooster Spirits and 2 Mythic Rooster Avengers
  - 2 Mythic hand items of your path
  - 2 95 Weapons of your path 
  
-## Tabs {.tabset}
 ### Mark II: Fortified by Spirit
 
  - Ox Avenger
@@ -315,7 +309,6 @@ Listed below are some of the known Armor/Weapons quest that are available in Mor
  - Virtuoso blade
  - Will TAKE karma (2 pts I think) 
  
- ## Tabs {.tabset}
  ### Mark III: Banded by Iron
  
  - Must have 18 Karma to begin this quest
