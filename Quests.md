@@ -2,7 +2,7 @@
 title: Quests
 description: 
 published: true
-date: 2020-10-08T19:47:12.581Z
+date: 2020-10-08T19:48:31.116Z
 tags: quest
 editor: markdown
 dateCreated: 2020-10-05T20:48:57.196Z
@@ -13,7 +13,8 @@ dateCreated: 2020-10-05T20:48:57.196Z
 > Guides and information related to quests can be found here.
 {.is-info}
 
-## NPC Quest line 1
+## Tabs {.tabset}
+### NPC Quest line 1
 
 **Level 4 - Sewer Expedition**
 1. Recieve from City Guard
@@ -97,7 +98,7 @@ dateCreated: 2020-10-05T20:48:57.196Z
 **Level 91 - Black Strike's Keep**
  *pending info*
  
- ## NPC Quest Line 2
+ ### NPC Quest Line 2
  
 **Level 20 - Life of a Savage**
 
@@ -159,7 +160,7 @@ dateCreated: 2020-10-05T20:48:57.196Z
 **Level 84 - A Hidden Foe?**
 *Pending Info*
 
-## NPC Quest Line 3
+### NPC Quest Line 3
 
 **Level 25 - The Mythic Grounds**
 
