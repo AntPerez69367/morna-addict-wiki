@@ -2,7 +2,7 @@
 title: Subpaths
 description: 
 published: true
-date: 2020-10-08T01:42:37.899Z
+date: 2020-10-08T01:43:45.440Z
 tags: 
 editor: markdown
 dateCreated: 2020-10-08T01:30:06.106Z
@@ -17,7 +17,7 @@ To learn more about each subpath, visit their page on the wiki, which will conta
 
 
 ### Tabs {.tabset}
-#### [Fighter](/en/Subpaths/Fighter)
+#### Fighter
 
 - [Berserker](/en/Subpaths/Fighter/Berserker)
 - [Dragonborn](/en/Subpaths/Fighter/Dragonborn)
@@ -25,19 +25,19 @@ To learn more about each subpath, visit their page on the wiki, which will conta
 - [Paladin](/en/Subpaths/Fighter/Paladin)
 
 
-#### [Priest](/en/Subpaths/Priest)
+#### Priest
 - [Bishop](/en/Subpaths/Priest/Bishop)
 - [Crusader](/en/Subpaths/Priest/Crusader)
 - [Druid](/en/Subpaths/Priest/Druid)
 - [Medic](/en/Subpaths/Priest/Medic)
 
-#### [Scoundrel](/en/Subpaths/Scoundrel)
+#### Scoundrel
 - [Bard](/en/Subpaths/Scoundrel/Bard)
 - [Ranger](/en/Subpaths/Scoundrel/Ranger)
 - [Shadow](/en/Subpaths/Scoundrel/Shadow)
 - [Spellthief](/en/Subpaths/Scoundrel/Spellthief)
 
-#### [Wizard](/en/Subpaths/Wizard)
+#### Wizard
 - [ArchMagi](/en/Subpaths/Wizard/ArchMagi)
 - [Phoenix](/en/Subpaths/Wizard/Phoenix)
 - [Vampire](/en/Subpaths/Wizard/Vampire)
