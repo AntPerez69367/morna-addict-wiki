@@ -2,7 +2,7 @@
 title: Quests
 description: 
 published: true
-date: 2020-10-08T23:34:01.840Z
+date: 2020-10-08T23:35:29.266Z
 tags: quest
 editor: markdown
 dateCreated: 2020-10-05T20:48:57.196Z
@@ -233,7 +233,7 @@ Listed below are some of the known Armor/Weapons quest that are available in Mor
 {.is-info}
 
 ## Tabs {.tabset}
-## Level 66: Hero Armor
+### Level 66: Hero Armor
  - Go to your path trainer and click the "Hero" option
  - Kill 2 Muck and Slime Ogre (Can be found in Lortz, level 63 to enter Grim Barrens: 027,001, these two bosses look identical but are seperated by Northern and Southern rooms)
  - Return to trainer and they will ask you to bring 2 of your Non-Mythic level 50 hand items (Fighter: Crimson Gauntlets, Wizard: Magic Ring, Priest: Guiding Hand, Scoundrel: Whisper Bracelet)
@@ -241,7 +241,7 @@ Listed below are some of the known Armor/Weapons quest that are available in Mor
  - Takes 1 point of Karma 
 
 ## Tabs {.tabset}
-## Level 76: Master Armor
+### Level 76: Master Armor
 
  - Kill Horse Do (Mythic Horse item boss)
  - Kill 25 fat pigs (Fattest ones, can be found in key boss room and beyong)
@@ -254,7 +254,7 @@ Listed below are some of the known Armor/Weapons quest that are available in Mor
  - Takes 2 points of Karma 
  
 ## Tabs {.tabset}
-## Level 86: Paragon of the Sun
+### Level 86: Paragon of the Sun
  
  - Kill both Mythic Rabbit bosses
  - Kill both Mythic Monkey bosses
@@ -272,7 +272,7 @@ Listed below are some of the known Armor/Weapons quest that are available in Mor
  - Takes 4 points of Karma 
  
 ## Tabs {.tabset}
-## Level 96: Bolstered by the Winds
+### Level 96: Bolstered by the Winds
 
  - Requires 12 Karma to begin quest
  - Kill Blackstrike and Mega Mudman OR Glow Skull and Freddy the Flayer
@@ -291,19 +291,19 @@ Listed below are some of the known Armor/Weapons quest that are available in Mor
  - Takes some karma 
  
 ## Tabs {.tabset}
-## Level 99: Strengthened by Wealth
+### Level 99: Strengthened by Wealth
 
  - 1 Million Coins
  
 ## Tabs {.tabset}
-## Mark I: Braced by Faith
+### Mark I: Braced by Faith
  
  - Kill 2 Mythic Rooster Spirits and 2 Mythic Rooster Avengers
  - 2 Mythic hand items of your path
  - 2 95 Weapons of your path 
  
 ## Tabs {.tabset}
-## Mark II: Fortified by Spirit
+### Mark II: Fortified by Spirit
 
  - Ox Avenger
  - 200 plump pink pigs (Mythic)
@@ -316,7 +316,7 @@ Listed below are some of the known Armor/Weapons quest that are available in Mor
  - Will TAKE karma (2 pts I think) 
  
  ## Tabs {.tabset}
- ## Mark III: Banded by Iron
+ ### Mark III: Banded by Iron
  
  - Must have 18 Karma to begin this quest
  - Kill mythic sheep or mythic tiger bosses
