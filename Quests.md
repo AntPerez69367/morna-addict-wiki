@@ -2,7 +2,7 @@
 title: Quests
 description: 
 published: true
-date: 2020-10-08T18:32:55.505Z
+date: 2020-10-08T18:38:05.622Z
 tags: quest
 editor: markdown
 dateCreated: 2020-10-05T20:48:57.196Z
@@ -96,3 +96,45 @@ dateCreated: 2020-10-05T20:48:57.196Z
 
 **Level 91 - Black Strike's Keep**
  *pending info*
+ 
+ ##NPC Quest Line 2##
+ 
+**Level 20 - Life of a Savage**
+
+1. Received from City Guard
+2. Directed to Militia Bunk
+3. Received [?? Potion] From Cletus
+4. Take Potion to (027,042) in Savage Territory 3rd Room
+5. Use potion directly in front of door, turn into “Savage Stickman” Mob
+6. Speak with Barry at top corner of Tent
+7. Return to Cletus
+8. Directed to Sam Spelunk 
+
+**Level 28 - Subterranean expedition**
+
+1. Received from Sam Spelunk
+2. Kill (20) Qi [Purple] in Subterranean Cave
+3. Kill (20) Li [Yellow] in Subterranean Cave
+4. Return to Sam Spelunk 
+
+**Level 28 - Subterranean Veteran**
+
+1. Received from Sam Spelunk
+2. Kill (1) Dragoon (1st Boss)
+3. Kill (1) Fenix Dragoon (2nd Boss)
+4. Return to Sam Spelunk 
+
+**Level 50 - Venom Everywhere!**
+
+1. Received from Edbard (141,103) North Hon Woods
+2. Kill (1) Spider Queen
+3. Return to Edbard 
+
+**Level 50 - Spider Trial (Must Complete Venom Everywhere)**
+
+1. Received from Edbard 
+2. Kill 100 Spiders [Any in Cave]
+3. Return to Edbard 
+*Quest is repeatable*
+
+
