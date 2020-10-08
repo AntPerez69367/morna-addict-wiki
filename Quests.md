@@ -2,7 +2,7 @@
 title: Quests
 description: 
 published: true
-date: 2020-10-08T18:38:44.992Z
+date: 2020-10-08T18:39:52.173Z
 tags: quest
 editor: markdown
 dateCreated: 2020-10-05T20:48:57.196Z
@@ -103,7 +103,7 @@ dateCreated: 2020-10-05T20:48:57.196Z
 
 1. Received from City Guard
 2. Directed to Militia Bunk
-3. Received [?? Potion] From Cletus
+3. Received [Bandit's Potion] From Cletus
 4. Take Potion to (027,042) in Savage Territory 3rd Room
 5. Use potion directly in front of door, turn into “Savage Stickman” Mob
 6. Speak with Barry at top corner of Tent
