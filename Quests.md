@@ -2,7 +2,7 @@
 title: Quests
 description: 
 published: true
-date: 2020-10-08T19:40:53.099Z
+date: 2020-10-08T19:47:12.581Z
 tags: quest
 editor: markdown
 dateCreated: 2020-10-05T20:48:57.196Z
@@ -195,22 +195,26 @@ dateCreated: 2020-10-05T20:48:57.196Z
 
 ##Misc. Quests
 
-**Level 99 - Ice Palace (NE Corner of N Cathay)**
+## Tabs {.tabset}
+### **Level 99 - Ice Palace (NE Corner of N Cathay)**
 
 1 of each Mythic Rune Key (Thunder, Heaven, Mountain, Earth, Wind, Fire, Water, Pond)
 
-   *Do not combine keys into Trigram set, they will be turned in to Sora one by one after speaking to all 3 NPC's outside of Ice Palace*
+>    *Do not combine keys into Trigram set, they will be turned in to Sora one by one after speaking to all 3 NPC's outside of Ice Palace*
+{.is-warning}
+
 
 **Hints given:**
-
-***Rough sounds above*** - Thunder
-***The eternal speaks*** - Heaven
-***The giants of stone*** - Mountain
-***And the grounds they keep*** - Earth
-***Uncertainty follows*** - Wind
-***Breathing in ash*** - Fire
-***Until sins are washed away***- Water
-***And then there is rest*** - Pond 
+| Hint | Answer |
+| :---- |  :----:  |
+|***Rough sounds above*** | Thunder|
+|***The eternal speaks*** | Heaven |
+|***The giants of stone*** | Mountain|
+|***And the grounds they keep*** | Earth|
+|***Uncertainty follows*** | Wind|
+|***Breathing in ash*** | Fire|
+|***Until sins are washed away*** | Water|
+|***And then there is rest*** | Pond |
 
 
 > ***Special Thanks to Andras, Edge, Rumia, Maze, Death, Karanak, Zeromus, Xavier, Yurin and many more who have helped provide or verified the information above. Special Thanks To Arcia for the Information on the Sunny Day at the Beach Quest & Oh no a Swamp, and Snake Bite!***
@@ -225,4 +229,5 @@ Listed below are some of the known Armor/Weapons quest that are available in Mor
 
  - Drop 1 Raw Hematite in the center of Mythic Morna
  
- *(Note: Most armor quests will not show up at your trainer unless you have the required Karma to sacrifice, some require more than what is taken at the end of the quest.)*
+>  *Most armor quests will not show up at your trainer unless you have the required Karma to sacrifice, some require more than what is taken at the end of the quest.*
+{.is-info}
