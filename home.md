@@ -2,7 +2,7 @@
 title: Welcome
 description: Welcome to the MornaAddict Wiki
 published: true
-date: 2020-10-08T01:51:16.951Z
+date: 2020-10-08T02:01:26.235Z
 tags: home
 editor: markdown
 dateCreated: 2020-10-05T18:33:50.037Z
@@ -18,8 +18,36 @@ dateCreated: 2020-10-05T18:33:50.037Z
 
 ## [Subpaths](/en/Subpaths)
 
+### Tabs {.tabset}
+#### Fighter
+
+- [Berserker](/en/Subpaths/Fighter/Berserker)
+- [Dragonborn](/en/Subpaths/Fighter/Dragonborn)
+- [Hwarang](/en/Subpaths/Fighter/Hwarang)
+- [Paladin](/en/Subpaths/Fighter/Paladin)
+
+
+#### Priest
+- [Bishop](/en/Subpaths/Priest/Bishop)
+- [Crusader](/en/Subpaths/Priest/Crusader)
+- [Druid](/en/Subpaths/Priest/Druid)
+- [Medic](/en/Subpaths/Priest/Medic)
+
+#### Scoundrel
+- [Bard](/en/Subpaths/Scoundrel/Bard)
+- [Ranger](/en/Subpaths/Scoundrel/Ranger)
+- [Shadow](/en/Subpaths/Scoundrel/Shadow)
+- [Spellthief](/en/Subpaths/Scoundrel/Spellthief)
+
+#### Wizard
+- [ArchMagi](/en/Subpaths/Wizard/ArchMagi)
+- [Phoenix](/en/Subpaths/Wizard/Phoenix)
+- [Vampire](/en/Subpaths/Wizard/Vampire)
+- [Warlock](/en/Subpaths/Wizard/Warlock)
+
 ## Gear and Equipment
 
 ## Spell Information
 
 ## Hunting Lists
+- [CaveSplits](/en/Guides/CaveSplits)
