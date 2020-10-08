@@ -2,7 +2,7 @@
 title: Quests
 description: 
 published: true
-date: 2020-10-08T18:39:52.173Z
+date: 2020-10-08T19:05:09.011Z
 tags: quest
 editor: markdown
 dateCreated: 2020-10-05T20:48:57.196Z
@@ -137,4 +137,77 @@ dateCreated: 2020-10-05T20:48:57.196Z
 3. Return to Edbard 
 *Quest is repeatable*
 
+**Level 63 - Wolves Den Raid**
 
+1. Received from Edbard
+2. Talk to Edbard about "Lost Dog"
+3. Speak to "The Fang" (070,116 Woods North Hon)
+4. Kill 50 Brown Wolves
+5. Return to The Fang 
+
+**Level 63 - Wolf Slayer (Must Complete Wolves Den Raid)**
+
+1. Talk to "The Fang"
+2. Kill (2) Black Wolf
+3. Kill (1) Dire Wolf
+4. Return to Fang
+5. Choose Reward [Wolves Plate] or [Wolves Garb] 
+
+**Level 84 - March of the Ogre's**
+*Pending info*
+
+**Level 84 - A Hidden Foe?**
+*Pending Info*
+
+## NPC Quest Line 3
+
+**Level 25 - The Mythic Grounds**
+
+1. Received from City Guard
+2. Travel To Mythic Morna and speak with Wild West (003,022)
+3. Kill (60) Rabbits in Mythic Rabbit Cave
+4. Return to Wild West 
+
+**Level 46 - Rooster Trouble**
+
+1. Received from Wild West
+2. Kill (100) Roosters in Mythic Rooster Cave
+3. Kill (10) Rooster Sentinels
+4. Return to Wild West 
+
+**Level 81 – Snakes Bite**
+
+1. Received from Wild West
+2. Kill (200) Snakes in Mythic Snake Cave
+3. Return to Wild West 
+
+**Level 95 – Tiger Guardroom**
+
+1. Received from Wild West
+2. Kill (1) Tiger Warrior [Item Boss] In Mythic Tiger Cave
+3. Return to Wild West 
+
+**Level 99 – Dragon Raid**
+
+1. Received from Wild West
+2. Kill (150) Dragons in Mythic Dragon Cave
+3. Return to Wild West 
+
+##Misc. Quests
+
+**Level 99 - Ice Palace (NE Corner of N Cathay)**
+
+1 of each Mythic Rune Key (Thunder, Heaven, Mountain, Earth, Wind, Fire, Water, Pond)
+
+   *Do not combine keys into Trigram set, they will be turned in to Sora one by one after speaking to all 3 NPC's outside of Ice Palace*
+
+**Hints given:**
+
+***Rough sounds above*** - Thunder
+***The eternal speaks*** - Heaven
+***The giants of stone*** - Mountain
+***And the grounds they keep*** - Earth
+***Uncertainty follows*** - Wind
+***Breathing in ash*** - Fire
+***Until sins are washed away***- Water
+***And then there is rest*** - Pond 
