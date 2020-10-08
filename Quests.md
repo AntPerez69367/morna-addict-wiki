@@ -2,16 +2,15 @@
 title: Quests
 description: 
 published: true
-date: 2020-10-08T19:50:02.655Z
+date: 2020-10-08T19:52:17.262Z
 tags: quest
 editor: markdown
 dateCreated: 2020-10-05T20:48:57.196Z
 ---
 
-# Quests
-
 > Guides and information related to quests can be found here.
 {.is-info}
+# NPC Quest Lines
 
 ## Tabs {.tabset}
 ### NPC Quest line 1
@@ -194,7 +193,7 @@ dateCreated: 2020-10-05T20:48:57.196Z
 2. Kill (150) Dragons in Mythic Dragon Cave
 3. Return to Wild West 
 
-## Misc. Quests
+# Misc. Quests
 
 ## Tabs {.tabset}
 ### **Level 99 - Ice Palace (NE Corner of N Cathay)**
@@ -222,7 +221,7 @@ dateCreated: 2020-10-05T20:48:57.196Z
 {.is-info}
 
 
-## Armor Quests
+# Armor Quests
 
 Listed below are some of the known Armor/Weapons quest that are available in MornaTK. Some of these quests are class specific, and/or have teirs associated with the quest. (This does not refer to Crafted Armors) If you find a new armor quest or see a problem with something we have listed, let us know via N-Mail or Discord!
 
