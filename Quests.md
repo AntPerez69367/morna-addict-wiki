@@ -2,7 +2,7 @@
 title: Quests
 description: 
 published: true
-date: 2020-10-08T19:27:19.793Z
+date: 2020-10-08T19:28:04.276Z
 tags: quest
 editor: markdown
 dateCreated: 2020-10-05T20:48:57.196Z
@@ -215,7 +215,7 @@ dateCreated: 2020-10-05T20:48:57.196Z
 
 ***Special Thanks to Andras, Edge, Rumia, Maze, Death, Karanak, Zeromus, Xavier, Yurin and many more who have helped provide or verified the information above. Special Thanks To Arcia for the Information on the Sunny Day at the Beach Quest & Oh no a Swamp, and Snake Bite!***
 
-##Armor Quests
+## Armor Quests
 
 Listed below are some of the known Armor/Weapons quest that are available in MornaTK. Some of these quests are class specific, and/or have teirs associated with the quest. (This does not refer to Crafted Armors) If you find a new armor quest or see a problem with something we have listed, let us know via N-Mail or Discord!
 
