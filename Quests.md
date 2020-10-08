@@ -2,7 +2,7 @@
 title: Quests
 description: 
 published: true
-date: 2020-10-08T18:38:05.622Z
+date: 2020-10-08T18:38:44.992Z
 tags: quest
 editor: markdown
 dateCreated: 2020-10-05T20:48:57.196Z
@@ -97,7 +97,7 @@ dateCreated: 2020-10-05T20:48:57.196Z
 **Level 91 - Black Strike's Keep**
  *pending info*
  
- ##NPC Quest Line 2##
+ ## NPC Quest Line 2
  
 **Level 20 - Life of a Savage**
 
