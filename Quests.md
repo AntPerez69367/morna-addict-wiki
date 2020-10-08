@@ -2,7 +2,7 @@
 title: Quests
 description: 
 published: true
-date: 2020-10-08T19:28:04.276Z
+date: 2020-10-08T19:31:01.730Z
 tags: quest
 editor: markdown
 dateCreated: 2020-10-05T20:48:57.196Z
@@ -213,7 +213,9 @@ dateCreated: 2020-10-05T20:48:57.196Z
 ***And then there is rest*** - Pond 
 
 
-***Special Thanks to Andras, Edge, Rumia, Maze, Death, Karanak, Zeromus, Xavier, Yurin and many more who have helped provide or verified the information above. Special Thanks To Arcia for the Information on the Sunny Day at the Beach Quest & Oh no a Swamp, and Snake Bite!***
+> ***Special Thanks to Andras, Edge, Rumia, Maze, Death, Karanak, Zeromus, Xavier, Yurin and many more who have helped provide or verified the information above. Special Thanks To Arcia for the Information on the Sunny Day at the Beach Quest & Oh no a Swamp, and Snake Bite!***
+{.is-info}
+
 
 ## Armor Quests
 
