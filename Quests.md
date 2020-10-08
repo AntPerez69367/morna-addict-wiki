@@ -2,7 +2,7 @@
 title: Quests
 description: 
 published: true
-date: 2020-10-08T19:05:09.011Z
+date: 2020-10-08T19:06:14.197Z
 tags: quest
 editor: markdown
 dateCreated: 2020-10-05T20:48:57.196Z
@@ -211,3 +211,6 @@ dateCreated: 2020-10-05T20:48:57.196Z
 ***Breathing in ash*** - Fire
 ***Until sins are washed away***- Water
 ***And then there is rest*** - Pond 
+
+
+***Special Thanks to Andras, Edge, Rumia, Maze, Death, Karanak, Zeromus, Xavier, Yurin and many more who have helped provide or verified the information above. Special Thanks To Arcia for the Information on the Sunny Day at the Beach Quest & Oh no a Swamp, and Snake Bite!***
