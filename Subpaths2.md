@@ -2,7 +2,7 @@
 title: Subpaths
 description: 
 published: true
-date: 2020-10-08T01:45:09.187Z
+date: 2020-10-08T01:46:03.731Z
 tags: 
 editor: markdown
 dateCreated: 2020-10-08T01:30:06.106Z
