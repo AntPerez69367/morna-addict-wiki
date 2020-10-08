@@ -2,7 +2,7 @@
 title: Quests
 description: 
 published: true
-date: 2020-10-08T18:31:45.741Z
+date: 2020-10-08T18:32:55.505Z
 tags: quest
 editor: markdown
 dateCreated: 2020-10-05T20:48:57.196Z
@@ -38,8 +38,7 @@ dateCreated: 2020-10-05T20:48:57.196Z
 6. Receive [Bat Slayer] as Reward
 7. Directed to Harbor Storage 
 
-**Level 11 - Contaminated Seal (Must Complete Bat Into Action)
-**
+**Level 11 - Contaminated Seal (Must Complete Bat Into Action)**
 1. Received from Martin
 2. Gather (1) Large Scale [Mutated Goldfish] in Contaminated Cove
 3. Return Scale to Martin
@@ -95,5 +94,5 @@ dateCreated: 2020-10-05T20:48:57.196Z
 3. Return to Chad
 4. Receive [Branch Shield] as Reward!
 
-**Level 91 - Black Strike's Keep
+**Level 91 - Black Strike's Keep**
  *pending info*
