@@ -2,7 +2,7 @@
 title: Subpaths
 description: 
 published: true
-date: 2020-10-08T01:30:06.106Z
+date: 2020-10-08T01:30:45.640Z
 tags: 
 editor: markdown
 dateCreated: 2020-10-08T01:30:06.106Z
@@ -40,5 +40,5 @@ var table = new Tabulator("#example-table", {
         {title:"Height", field:"height", frozen:true}, //frozen column on right of table
     ]
 });
-document.getElementById("demo").innerHTML = "Hello JavaScript!";
+document.getElementById("demo").innerHTML = table;
 </script>
