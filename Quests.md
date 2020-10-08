@@ -2,8 +2,8 @@
 title: Quests
 description: 
 published: true
-date: 2020-10-08T19:38:27.733Z
-tags: quest, quest line, sewer expedition, sewer secret, bat into action, contaminated seal, under the earth, randall's fur coat, lord of the leeches, haunted house, oh no a swamp!, life of a savage, subterranean expedition, subterranean veteran, venom everywhere, spider trial, wolves den raid, wolf slayer, march of the ogre's, a hidden foe?, the mythic grounds, rooster trouble, snakes bite, tiger guardroom, dragon raid, ice palace
+date: 2020-10-08T19:40:53.099Z
+tags: quest
 editor: markdown
 dateCreated: 2020-10-05T20:48:57.196Z
 ---
