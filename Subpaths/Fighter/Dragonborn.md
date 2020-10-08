@@ -2,7 +2,7 @@
 title: Dragonborn
 description: Dragonborn information
 published: true
-date: 2020-10-08T01:56:07.717Z
+date: 2020-10-08T02:03:52.729Z
 tags: dragonborn, db
 editor: markdown
 dateCreated: 2020-10-07T21:32:29.500Z
@@ -11,7 +11,9 @@ dateCreated: 2020-10-07T21:32:29.500Z
 # Dragonborn
   ## Tans {.tabset}
   ### Lore
-  Need information.
+  Need more information.
+  
+  The Dragonborn public area is located at the Blackstrike Tower Eye (037, 013)
   ### Mark Titles
   1. Dragonborn 
   1. Wyvern 
