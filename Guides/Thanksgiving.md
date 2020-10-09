@@ -2,7 +2,7 @@
 title: Thanksgiving Event
 description: 
 published: true
-date: 2020-10-09T21:22:10.580Z
+date: 2020-10-09T21:26:09.584Z
 tags: 
 editor: markdown
 dateCreated: 2020-10-09T16:51:08.687Z
@@ -25,8 +25,10 @@ Head to the Hon Palace and talk with Betty. She will have a random list of quest
 ### Chi-fu
 1. Bring Chi-Fu the note. He will say we need a method of delivery for the invitations, Paper and someone to deliver notes to foreign soils.
 
+### Pepe Silvia
+1. Say 'paper' to Pepe the cathay messenger.
 ### Costner
-1. Say 'foreign' to Costner in market city
+1. Say 'foreign' to Costner in market city.
 
 # Building Bridges
 ### Polinovich
