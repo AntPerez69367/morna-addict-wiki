@@ -2,7 +2,7 @@
 title: Quests
 description: 
 published: true
-date: 2020-10-09T02:03:31.180Z
+date: 2020-10-09T02:04:06.721Z
 tags: quest
 editor: markdown
 dateCreated: 2020-10-05T20:48:57.196Z
@@ -332,9 +332,7 @@ Getting Started:
  - Talk to Tooz at West Gate of Lortz and hand over 6 of your Mythic Favor (Rabbit, Monkey, Dog, Rooster, Rat, and Horse)
  - Talk to Leanne to start your Lortz Tribute
 ### Lortz Tribute Item List
-Cave|Tier 1|Tier 2| Tier 3|Location/Misc
-| :---- |  :----:  |
-Grim Ogre|Electra, Paragon Staff, Elm Staff, Steel Thorn|N/A|N/A|Lortz North Gate and upper left cave
+
 
  
  
