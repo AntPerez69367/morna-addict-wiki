@@ -2,7 +2,7 @@
 title: Thanksgiving Event
 description: 
 published: true
-date: 2020-10-09T18:25:50.120Z
+date: 2020-10-09T20:34:51.895Z
 tags: 
 editor: markdown
 dateCreated: 2020-10-09T16:51:08.687Z
@@ -28,6 +28,8 @@ Head to the Hon Palace and talk with Betty. She will have a random list of quest
 2. He asks for another craftsman to help with measuring and cutting, a man in hiding, and a penny pincher. 
 ### Lumberjack in Woods north of hon
 1. Say 'Craftsman' 
+### Man in hiding.
+###
 
 # Beautiful Flower
 ### Nina
@@ -36,7 +38,7 @@ Head to the Hon Palace and talk with Betty. She will have a random list of quest
 # Invite to the Glamour
 ### Pepe Silvia
 1. Talk to the Cathay messenger he will ask for 25 white paper and 100 thick squid ink.
-
+> **Creation System Recipe**: 100 squid ink + 2 leech ooze = 100 thick squid ink
 # A Secret Rendevouz
 ### Pietro
 1. Speak with Pietro in Lortz. He will ask for an herb pipe and a dwarven ale.
