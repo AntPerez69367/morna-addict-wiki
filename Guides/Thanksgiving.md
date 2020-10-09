@@ -2,7 +2,7 @@
 title: Thanksgiving Event
 description: 
 published: true
-date: 2020-10-09T20:34:51.895Z
+date: 2020-10-09T20:39:31.053Z
 tags: 
 editor: markdown
 dateCreated: 2020-10-09T16:51:08.687Z
@@ -14,8 +14,12 @@ Head to the Hon Palace and talk with Betty. She will have a random list of quest
 
 # Famous Chef
 1. Find Salmon Ella at the boat house at hon north gate. He will ask for a Legendary assistant the best of the best. And a real fisherman.
+### Letovich
+1. Say 'Legendary assistant' to letovich located in Cold Iron
 ### Sturgeon
-1. Say 'Angler' to sturgeon.
+1. Say 'Angler' to sturgeon located at w gate hon inside the hut.
+### Daughter
+1. Say 'Daughter' to Nina the flower lady.
 
 # Pass the note
 ### Chi-fu
@@ -39,6 +43,7 @@ Head to the Hon Palace and talk with Betty. She will have a random list of quest
 ### Pepe Silvia
 1. Talk to the Cathay messenger he will ask for 25 white paper and 100 thick squid ink.
 > **Creation System Recipe**: 100 squid ink + 2 leech ooze = 100 thick squid ink
+
 # A Secret Rendevouz
 ### Pietro
 1. Speak with Pietro in Lortz. He will ask for an herb pipe and a dwarven ale.
