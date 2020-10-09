@@ -2,7 +2,7 @@
 title: Welcome
 description: Welcome to the MornaAddict Wiki
 published: true
-date: 2020-10-09T14:50:00.692Z
+date: 2020-10-09T22:12:33.725Z
 tags: home
 editor: markdown
 dateCreated: 2020-10-05T18:33:50.037Z
@@ -13,8 +13,7 @@ dateCreated: 2020-10-05T18:33:50.037Z
 {.is-info}
 
 ## Latest News
- 10/09/2020 - It was fun while it lasted but the Discord grove event is over. 
- 
+  10/09/2020 - New Thanksgiving Event! Check out [Thanksgiving](/en/Guides/Thanksgiving) for help with solving the quests.
 ## [Quests](/en/Quests)
 
 ## [Subpaths](/en/Subpaths)
