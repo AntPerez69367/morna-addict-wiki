@@ -2,7 +2,7 @@
 title: Quests
 description: 
 published: true
-date: 2020-10-08T23:39:42.252Z
+date: 2020-10-09T02:02:09.400Z
 tags: quest
 editor: markdown
 dateCreated: 2020-10-05T20:48:57.196Z
@@ -325,4 +325,16 @@ Listed below are some of the known Armor/Weapons quest that are available in Mor
  - 5 Ball of fire
  - 100 raw malchite
  - 500k gold 
+ 
+## Tabs {.tabset}
+# Lortz Tribute
+Getting Started:
+ - Talk to Tooz at West Gate of Lortz and hand over 6 of your Mythic Favor (Rabbit, Monkey, Dog, Rooster, Rat, and Horse)
+ - Talk to Leanne to start your Lortz Tribute
+### Lortz Tribute Item List
+Cave | Tier 1 | Tier 2 | Tier 3 | Location/Misc
+| :---- |  :----:  |
+Grim Ogre | Electra, Paragon Staff, Elm Staff, Steel Thorn | N/A | N/A | Lortz North Gate and upper left cave
+
+ 
  
