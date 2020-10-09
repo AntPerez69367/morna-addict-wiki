@@ -2,7 +2,7 @@
 title: Thanksgiving Event
 description: 
 published: true
-date: 2020-10-09T21:53:56.472Z
+date: 2020-10-09T22:11:06.947Z
 tags: 
 editor: markdown
 dateCreated: 2020-10-09T16:51:08.687Z
@@ -64,6 +64,16 @@ Head to the Hon Palace and talk with Betty. She will have a random list of quest
 ### Pepe Silvia
 1. Talk to the Cathay messenger he will ask for 25 white paper and 100 thick squid ink.
 > **Creation System Recipe**: 100 squid ink + 2 leech ooze = 100 thick squid ink
+
+# Setting the table
+### Talis
+1. Talk to Talis at the hon armor shop
+### Cups
+1. Say 'Cups' to Cammie in the Lortz shop 
+### Paper
+1. Say 'Paper' to the Cathay armor shop
+### Pots
+1. Say 'Pots' to Polinovich in Cold Iron
 
 # A Secret Rendevouz
 ### Pietro
