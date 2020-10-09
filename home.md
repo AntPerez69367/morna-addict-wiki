@@ -2,7 +2,7 @@
 title: Welcome
 description: Welcome to the MornaAddict Wiki
 published: true
-date: 2020-10-09T05:51:12.557Z
+date: 2020-10-09T14:50:00.692Z
 tags: home
 editor: markdown
 dateCreated: 2020-10-05T18:33:50.037Z
@@ -51,4 +51,4 @@ dateCreated: 2020-10-05T18:33:50.037Z
 ## Spell Information
 
 ## Hunting Lists
-- [Event Cave Splits](/en/Guides/CaveSplits)
+- [Event Cave Splits](/en/Hunting/CaveSplits)
