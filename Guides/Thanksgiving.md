@@ -2,7 +2,7 @@
 title: Thanksgiving Event
 description: 
 published: true
-date: 2020-10-09T20:54:26.187Z
+date: 2020-10-09T21:00:26.197Z
 tags: 
 editor: markdown
 dateCreated: 2020-10-09T16:51:08.687Z
@@ -31,7 +31,7 @@ Head to the Hon Palace and talk with Betty. She will have a random list of quest
 1. 100 ingot
 1. 100 fine ingot
 1. 100 board
-1.100 sturdy board
+1. 100 sturdy board
 
 # Staging Greatness
 ### Banon
