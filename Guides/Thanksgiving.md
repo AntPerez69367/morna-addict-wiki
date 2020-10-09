@@ -2,7 +2,7 @@
 title: Thanksgiving Event
 description: 
 published: true
-date: 2020-10-09T22:11:34.259Z
+date: 2020-10-09T23:34:53.016Z
 tags: 
 editor: markdown
 dateCreated: 2020-10-09T16:51:08.687Z
@@ -24,7 +24,6 @@ Head to the Hon Palace and talk with Betty. She will have a random list of quest
 # Pass the note
 ### Chi-fu
 1. Bring Chi-Fu the note. He will say we need a method of delivery for the invitations, Paper and someone to deliver notes to foreign soils.
-
 ### Hon Parcel Shop
 1. say 'method of delivery' to the hon messenger.
 ### Pepe Silvia
@@ -52,7 +51,8 @@ Head to the Hon Palace and talk with Betty. She will have a random list of quest
 
 # Beautiful Flower
 ### Nina
-1. Please make sure Nina will show
+1. Talk to Nina the flower girl east of Cathay. She will as for a rare and beautiful flower
+1. The flower is located behind her house. Walk onto the small flower on the top right of her house and talk to her again.
 
 # Blessed Meal
 ### Jean Claud Van Paul - w n hon?
