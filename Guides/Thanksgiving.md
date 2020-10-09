@@ -2,7 +2,7 @@
 title: Thanksgiving Event
 description: 
 published: true
-date: 2020-10-09T16:51:08.687Z
+date: 2020-10-09T17:25:36.930Z
 tags: 
 editor: markdown
 dateCreated: 2020-10-09T16:51:08.687Z
@@ -14,3 +14,24 @@ Head to the Hon Palace and talk with Betty. She will have a random list of quest
 
 # Famous Chef
 1. Find Salmon Ella at the boat house at hon north gate. He will ask for a Legendary assistant the best of the best. And a real fisherman.
+
+# Pass the note
+### Chi-fu
+1. Bring Chi-Fu the note. He will ask for Paper and someone to deliver notes to foreign soils.
+
+
+# Staging Greatness
+### Banon
+1. Convince banon to help us.
+
+# Beautiful Flower
+### Nina
+1. Please make sure Nina will show
+
+# Invite to the Glamour
+### Pepe Silvia
+1. Talk to the Cathay messenger he will ask for 25 white paper and 100 thick squid ink.
+
+# A Secret Rendevouz
+### Pietro
+1. Speak with Pietro in Lortz. He will ask for an herb pipe and a dwarven ale.
