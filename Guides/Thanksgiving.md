@@ -2,7 +2,7 @@
 title: Thanksgiving Event
 description: 
 published: true
-date: 2020-10-09T20:51:09.533Z
+date: 2020-10-09T20:54:26.187Z
 tags: 
 editor: markdown
 dateCreated: 2020-10-09T16:51:08.687Z
@@ -40,7 +40,8 @@ Head to the Hon Palace and talk with Betty. She will have a random list of quest
 ### Lumberjack in Woods north of hon
 1. Say 'Craftsman' 
 ### Man in hiding.
-###
+### Penny Pincher
+1. Say 'Budget' to Tony Balogna in Market City.
 
 # Beautiful Flower
 ### Nina
