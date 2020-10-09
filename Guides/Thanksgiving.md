@@ -2,7 +2,7 @@
 title: Thanksgiving Event
 description: 
 published: true
-date: 2020-10-09T18:21:48.982Z
+date: 2020-10-09T18:25:50.120Z
 tags: 
 editor: markdown
 dateCreated: 2020-10-09T16:51:08.687Z
@@ -26,6 +26,8 @@ Head to the Hon Palace and talk with Betty. She will have a random list of quest
 ### Banon
 1. Convince banon to help us.
 2. He asks for another craftsman to help with measuring and cutting, a man in hiding, and a penny pincher. 
+### Lumberjack in Woods north of hon
+1. Say 'Craftsman' 
 
 # Beautiful Flower
 ### Nina
