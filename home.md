@@ -2,7 +2,7 @@
 title: Welcome
 description: Welcome to the MornaAddict Wiki
 published: true
-date: 2020-10-09T22:12:33.725Z
+date: 2020-10-10T01:09:01.831Z
 tags: home
 editor: markdown
 dateCreated: 2020-10-05T18:33:50.037Z
@@ -40,7 +40,7 @@ dateCreated: 2020-10-05T18:33:50.037Z
 - [Spellthief](/en/Subpaths/Scoundrel/Spellthief)
 
 #### Wizard
-- [ArchMagi](/en/Subpaths/Wizard/ArchMagi)
+- [Arch Magi](/en/Subpaths/Wizard/ArchMagi)
 - [Phoenix](/en/Subpaths/Wizard/Phoenix)
 - [Vampire](/en/Subpaths/Wizard/Vampire)
 - [Warlock](/en/Subpaths/Wizard/Warlock)
