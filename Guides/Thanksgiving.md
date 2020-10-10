@@ -2,7 +2,7 @@
 title: Thanksgiving Event
 description: 
 published: true
-date: 2020-10-10T00:21:34.330Z
+date: 2020-10-10T00:28:44.578Z
 tags: 
 editor: markdown
 dateCreated: 2020-10-09T16:51:08.687Z
@@ -74,6 +74,11 @@ Head to the Hon Palace and talk with Betty. She will have a random list of quest
 1. Say 'Napkins' to the Cathay armor shop
 ### Pots
 1. Say 'Pots' to Polinovich in Cold Iron
+
+# A Long Time Coming
+### Tony Bologna
+1. Speak with Tony Bologna in the market city (55,48)
+2. Collect and give Tony 3 Fire Agate
 
 # A Secret Rendevouz
 ### Pietro
