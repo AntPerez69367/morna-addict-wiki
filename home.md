@@ -2,7 +2,7 @@
 title: Welcome
 description: Welcome to the MornaAddict Wiki
 published: true
-date: 2020-10-10T03:36:51.288Z
+date: 2020-10-10T03:52:12.373Z
 tags: home
 editor: markdown
 dateCreated: 2020-10-05T18:33:50.037Z
@@ -47,7 +47,7 @@ dateCreated: 2020-10-05T18:33:50.037Z
 
 ## [Equipment](/en/Equipment)
 
-  Weapons
+-	[Weapons](/en/new-page)
   Armor
   Shields
   Helmets
