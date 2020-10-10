@@ -2,7 +2,7 @@
 title: Thanksgiving Event
 description: 
 published: true
-date: 2020-10-10T01:07:19.871Z
+date: 2020-10-10T20:18:32.448Z
 tags: 
 editor: markdown
 dateCreated: 2020-10-09T16:51:08.687Z
@@ -30,6 +30,7 @@ Head to the Hon Palace and talk with Betty. She will have a random list of quest
 - Say '**Secret Dealer**' to Pietro.
 ### Jules
 - Say '**Love**' to Jules.
+
 
 ## Pass the Note
 ### Chi-fu
@@ -98,3 +99,7 @@ Head to the Hon Palace and talk with Betty. She will have a random list of quest
 ## A Secret Rendevouz
 ### Pietro
 - Speak with Pietro in Lortz. He will ask for an herb pipe and a dwarven ale.
+
+## Hold the Line
+### Saitama
+- Bring Saitama 1 ring of prevention and 1 spell scroll
