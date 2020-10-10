@@ -2,7 +2,7 @@
 title: Paladin
 description: Paladin information
 published: true
-date: 2020-10-10T23:15:54.134Z
+date: 2020-10-10T23:19:01.505Z
 tags: 
 editor: markdown
 dateCreated: 2020-10-07T21:34:17.008Z
@@ -47,11 +47,8 @@ SlumberJack (Honorary Guide)
 
 **Founding/Retired Elders:**
 SlumberJack (Founding Elder)                   
-## Spells
 
-| Level | Spell | Cost | Description |
-| ---- | ----- | ----- | ----- |
-| 15 | Block | 1x Hammer | Blocks an attack |
+## Spells
 
   
  
