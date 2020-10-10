@@ -2,7 +2,7 @@
 title: Welcome
 description: Welcome to the MornaAddict Wiki
 published: true
-date: 2020-10-10T03:36:05.973Z
+date: 2020-10-10T03:36:51.288Z
 tags: home
 editor: markdown
 dateCreated: 2020-10-05T18:33:50.037Z
@@ -46,7 +46,8 @@ dateCreated: 2020-10-05T18:33:50.037Z
 - [Warlock](/en/Subpaths/Wizard/Warlock)
 
 ## [Equipment](/en/Equipment)
-	Weapons
+
+  Weapons
   Armor
   Shields
   Helmets
