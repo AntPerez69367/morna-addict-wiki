@@ -2,7 +2,7 @@
 title: Thanksgiving Event
 description: 
 published: true
-date: 2020-10-10T00:28:44.578Z
+date: 2020-10-10T00:43:28.338Z
 tags: 
 editor: markdown
 dateCreated: 2020-10-09T16:51:08.687Z
@@ -20,6 +20,15 @@ Head to the Hon Palace and talk with Betty. She will have a random list of quest
 1. Say 'Angler' to sturgeon located at w gate hon inside the hut.
 ### Daughter
 1. Say 'Daughter' to Nina the flower lady.
+
+# A little bang
+### Speak to Harvey
+### Martin
+1. Say 'Supplies' to Martin on the hon docks.
+### Pietro
+1. Say 'Secret Dealer' to Pietro.
+### Jules
+1. Say 'Love' to Jules.
 
 # Pass the note
 ### Chi-fu
