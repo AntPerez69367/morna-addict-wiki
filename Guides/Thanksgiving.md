@@ -2,7 +2,7 @@
 title: Thanksgiving Event
 description: 
 published: true
-date: 2020-10-10T00:47:31.963Z
+date: 2020-10-10T00:59:53.014Z
 tags: 
 editor: markdown
 dateCreated: 2020-10-09T16:51:08.687Z
@@ -64,10 +64,15 @@ Head to the Hon Palace and talk with Betty. She will have a random list of quest
 1. The flower is located behind her house. Walk onto the small flower on the top right of her house and talk to her again.
 
 # Blessed Meal
-### Jean Claud Van Paul - w n hon?
-1. Arch Bishop - asak
-1. Saitama - good will
-1. Cathay Shaman - miracle
+### Jean Claud Van Paul
+1. Speak with Jean Claud Van Paul in the Hon Chapel located at north gate and to the left a bit.
+
+### House of ASAK
+1. Say 'Archbishop' to Arch Bishop Monroe in the Template of ASAK
+### Saitama
+1. Sat 'Good Will' to Saitama located north of mythic morna.
+### Cathay Shaman
+1. Say 'Miracle' to the Cathay Shaman located in the left entrance of the Cathay Palace.
 
 # Invite to the Glamour
 ### Pepe Silvia
