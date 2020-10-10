@@ -2,7 +2,7 @@
 title: Paladin
 description: Paladin information
 published: true
-date: 2020-10-10T22:03:41.969Z
+date: 2020-10-10T22:04:44.447Z
 tags: 
 editor: markdown
 dateCreated: 2020-10-07T21:34:17.008Z
@@ -37,10 +37,13 @@ Staunchly self reliant and dependable, with the brawn of behemoth and the spirit
 In the dark we shine. We don’t survive, we thrive. We are Paladins. 
   ## Elders and Guides
 **Current Elder** - MrPotatohead
+
 **Current Guides:**
 EdTheHead
 Hemmy
 Kitt
+SlumberJack (Honorary Guide)
+
 **Founding/Retired Elders:**
 SlumberJack (Founding Elder)                   
 ## Spells
