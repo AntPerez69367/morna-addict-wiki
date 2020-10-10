@@ -2,7 +2,7 @@
 title: Thanksgiving Event
 description: 
 published: true
-date: 2020-10-09T23:34:53.016Z
+date: 2020-10-10T00:21:34.330Z
 tags: 
 editor: markdown
 dateCreated: 2020-10-09T16:51:08.687Z
@@ -71,7 +71,7 @@ Head to the Hon Palace and talk with Betty. She will have a random list of quest
 ### Cups
 1. Say 'Cups' to Cammie in the Lortz shop 
 ### Paper
-1. Say 'Paper' to the Cathay armor shop
+1. Say 'Napkins' to the Cathay armor shop
 ### Pots
 1. Say 'Pots' to Polinovich in Cold Iron
 
