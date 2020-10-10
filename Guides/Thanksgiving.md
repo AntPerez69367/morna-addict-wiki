@@ -2,7 +2,7 @@
 title: Thanksgiving Event
 description: 
 published: true
-date: 2020-10-10T00:59:53.014Z
+date: 2020-10-10T01:07:19.871Z
 tags: 
 editor: markdown
 dateCreated: 2020-10-09T16:51:08.687Z
@@ -12,88 +12,89 @@ dateCreated: 2020-10-09T16:51:08.687Z
 
 Head to the Hon Palace and talk with Betty. She will have a random list of quests that can be completed.
 
-# Famous Chef
-1. Find Salmon Ella at the boat house at hon north gate. He will ask for a Legendary assistant the best of the best. And a real fisherman.
+# Tabs {.tabset}
+## Famous Chef
+- Find Salmon Ella at the boat house at hon north gate. He will ask for a Legendary assistant the best of the best. And a real fisherman.
 ### Letovich
-1. Say 'Legendary assistant' to letovich located in Cold Iron
+- Say '**Legendary assistant**' to letovich located in Cold Iron
 ### Sturgeon
-1. Say 'Angler' to sturgeon located at w gate hon inside the hut.
+- Say '**Angler**' to sturgeon located at w gate hon inside the hut.
 ### Daughter
-1. Say 'Daughter' to Nina the flower lady.
+- Say '**Daughter**' to Nina the flower lady.
 
-# A little bang
+## A Little Bang
 ### Speak to Harvey
 ### Martin
-1. Say 'Supplies' to Martin on the hon docks.
+- Say '**Supplies**' to Martin on the hon docks.
 ### Pietro
-1. Say 'Secret Dealer' to Pietro.
+- Say '**Secret Dealer**' to Pietro.
 ### Jules
-1. Say 'Love' to Jules.
+- Say '**Love**' to Jules.
 
-# Pass the note
+## Pass the Note
 ### Chi-fu
-1. Bring Chi-Fu the note. He will say we need a method of delivery for the invitations, Paper and someone to deliver notes to foreign soils.
+- Bring Chi-Fu the note. He will say we need a method of delivery for the invitations, Paper and someone to deliver notes to foreign soils.
 ### Hon Parcel Shop
-1. say 'method of delivery' to the hon messenger.
+- say '**method of delivery**' to the hon messenger.
 ### Pepe Silvia
-1. Say 'paper' to Pepe the cathay messenger.
+- Say '**paper**' to Pepe the cathay messenger.
 ### Costner
-1. Say 'foreign' to Costner in market city.
+- Say '**foreign**' to Costner in market city.
 
-# Building Bridges
+## Building Bridges
 ### Polinovich
-1. 100 ingot
-1. 100 fine ingot
-1. 100 board
-1. 100 sturdy board
+- 100 ingot
+- 100 fine ingot
+- 100 board
+- 100 sturdy board
 
-# Staging Greatness
+## Staging Greatness
 ### Banon
-1. Convince banon to help us.
-2. He asks for another craftsman to help with measuring and cutting, a man in hiding, and a penny pincher. 
+- Convince banon to help us.
+- He asks for another craftsman to help with measuring and cutting, a man in hiding, and a penny pincher.
 ### Lumberjack in Woods north of hon
-1. Say 'Craftsman' 
+- Say '**Craftsman**'
 ### Man in hiding.
-1. Say 'Hiding' to Warthog on Hermit islan in Hon.
+- Say '**Hiding**' to Warthog on Hermit islan in Hon.
 ### Penny Pincher
-1. Say 'Budget' to Tony Balogna in Market City.
+- Say '**Budget**' to Tony Balogna in Market City.
 
-# Beautiful Flower
+## Beautiful Flower
 ### Nina
-1. Talk to Nina the flower girl east of Cathay. She will as for a rare and beautiful flower
-1. The flower is located behind her house. Walk onto the small flower on the top right of her house and talk to her again.
+- Talk to Nina the flower girl east of Cathay. She will as for a rare and beautiful flower
+- The flower is located behind her house. Walk onto the small flower on the top right of her house and talk to her again. (025, 005)
 
-# Blessed Meal
+## Blessed Meal
 ### Jean Claud Van Paul
-1. Speak with Jean Claud Van Paul in the Hon Chapel located at north gate and to the left a bit.
+- Speak with Jean Claud Van Paul in the Hon Chapel located at north gate and to the left a bit.
 
 ### House of ASAK
-1. Say 'Archbishop' to Arch Bishop Monroe in the Template of ASAK
+- Say '**Archbishop**' to Arch Bishop Monroe in the Template of ASAK
 ### Saitama
-1. Sat 'Good Will' to Saitama located north of mythic morna.
+- Sat '**Good Will**' to Saitama located north of mythic morna.
 ### Cathay Shaman
-1. Say 'Miracle' to the Cathay Shaman located in the left entrance of the Cathay Palace.
+- Say '**Miracle**' to the Cathay Shaman located in the left entrance of the Cathay Palace.
 
-# Invite to the Glamour
+## Invite to the Glamour
 ### Pepe Silvia
-1. Talk to the Cathay messenger he will ask for 25 white paper and 100 thick squid ink.
+- Talk to the Cathay messenger he will ask for 25 white paper and 100 thick squid ink.
 > **Creation System Recipe**: 100 squid ink + 2 leech ooze = 100 thick squid ink
 
-# Setting the table
+## Setting the Table
 ### Talis
-1. Talk to Talis at the hon armor shop
+- Talk to Talis at the hon armor shop
 ### Cups
-1. Say 'Cups' to Cammie in the Lortz shop 
+- Say '**Cups**' to Cammie in the Lortz shop
 ### Napkins
-1. Say 'Napkins' to the Cathay armor shop
+- Say '**Napkins**' to the Cathay armor shop
 ### Pots
-1. Say 'Pots' to Polinovich in Cold Iron
+- Say '**Pots**' to Polinovich in Cold Iron
 
-# A Long Time Coming
+## A Long Time Coming
 ### Tony Bologna
-1. Speak with Tony Bologna in the market city (55,48)
-2. Collect and give Tony 3 Fire Agate
+- Speak with Tony Bologna in the market city (55,48)
+- Collect and give Tony 3 Fire Agate
 
-# A Secret Rendevouz
+## A Secret Rendevouz
 ### Pietro
-1. Speak with Pietro in Lortz. He will ask for an herb pipe and a dwarven ale.
+- Speak with Pietro in Lortz. He will ask for an herb pipe and a dwarven ale.
