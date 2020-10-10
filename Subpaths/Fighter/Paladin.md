@@ -2,7 +2,7 @@
 title: Paladin
 description: Paladin information
 published: true
-date: 2020-10-10T23:08:37.371Z
+date: 2020-10-10T23:09:09.709Z
 tags: 
 editor: markdown
 dateCreated: 2020-10-07T21:34:17.008Z
