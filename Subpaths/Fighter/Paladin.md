@@ -2,7 +2,7 @@
 title: Paladin
 description: Paladin information
 published: true
-date: 2020-10-10T22:04:44.447Z
+date: 2020-10-10T22:22:46.418Z
 tags: 
 editor: markdown
 dateCreated: 2020-10-07T21:34:17.008Z
@@ -34,7 +34,8 @@ Something deep inside you gives you the thirst for blood, and the compassion to 
 
 Staunchly self reliant and dependable, with the brawn of behemoth and the spirit of a healer the paladin are known for their charisma and willingness to put themselves in harms way, confident that their strength can overcome. Our loud bellowing roar can get the attention of any beast in ear shot, we withstand any adversary that rises to the call. We can break bonds that the Gods have forged and purge curses from our own veins. Our abilities are only matched by our valiance and unparalleled bravery in the face of danger.
 
-In the dark we shine. We don’t survive, we thrive. We are Paladins. 
+**In the dark we shine. We don’t survive, we thrive. We are Paladins.**
+
   ## Elders and Guides
 **Current Elder** - MrPotatohead
 
