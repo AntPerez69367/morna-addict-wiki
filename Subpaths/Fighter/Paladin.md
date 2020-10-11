@@ -2,7 +2,7 @@
 title: 
 description: 
 published: true
-date: 2020-10-11T19:21:06.481Z
+date: 2020-10-11T19:27:56.403Z
 tags: 
 editor: markdown
 dateCreated: 2020-10-07T21:34:17.008Z
@@ -12,11 +12,9 @@ dateCreated: 2020-10-07T21:34:17.008Z
 ## {.tabset}
 ### Lore and History
  - **Public Area (057, 074 East Gate of Cathay)**
-###### 
-**Overview**:
+###### Overview
 Paladins are the classic “Fighter/Healer” combo. As a fighter turned Paladin, you are given extra spells such as better heals, mana restoration, and protection spells to better sustain yourself and your allies.
-###### 
-**Lore**:
+###### Lore
 We are natural adventurers, lone wolves as we chart the unbroken frontier. Once bound by duty, a Paladin is the original renegade and reports to no one but themselves.
 
 Us Paladins are an easy going and self-reliant folk, and although there’s no cookie cutter paladin personality we have one truth that is common among all of us - the perpetual craving for adventure.
