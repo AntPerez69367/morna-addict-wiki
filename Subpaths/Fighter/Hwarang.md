@@ -2,7 +2,7 @@
 title: 
 description: 
 published: true
-date: 2020-10-11T19:23:17.257Z
+date: 2020-10-11T19:26:48.142Z
 tags: 
 editor: markdown
 dateCreated: 2020-10-07T21:33:49.251Z
@@ -12,7 +12,7 @@ dateCreated: 2020-10-07T21:33:49.251Z
 ## Tans {.tabset}
 ### Lore and History
  - **Public Area (044,045 Cold Iron)**
-###### **Description**:
+###### **Description**
 Hwarang are Fighters who have honed their skills in self-sustaining fighting styles. They are able to leap towards or over an enemy, restore themselves through meditation, stealth (Great for PVP) and auto-attack in a larger radius than other paths.
 ### Elders and Guides
 ### Mark Titles
