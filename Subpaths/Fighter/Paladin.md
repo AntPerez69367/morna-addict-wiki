@@ -2,15 +2,15 @@
 title: 
 description: 
 published: true
-date: 2020-10-11T18:00:25.808Z
+date: 2020-10-11T18:10:43.317Z
 tags: 
 editor: markdown
 dateCreated: 2020-10-07T21:34:17.008Z
 ---
 
 # Paladin
-  ## {.tabset}
-  ### Lore and History
+## {.tabset}
+### Lore and History
    - Public Area (057, 074 East Gate of Cathay)
    
 Paladins are the classic “Fighter/Healer” combo. As a fighter turned Paladin, you are given extra spells such as better heals, mana restoration, and protection spells to better sustain yourself and your allies.
@@ -37,7 +37,7 @@ Staunchly self reliant and dependable, with the brawn of behemoth and the spirit
 
 **In the dark we shine. We don’t survive, we thrive. We are Paladins.**
 
- ### Elders and Guides
+### Elders and Guides
 **Current Elder** - MrPotatohead
 
 **Current Guides:**
@@ -49,4 +49,15 @@ Slumberjack (Honorary Guide)
 **Founding/Retired Elders:**
 Slumberjack (Founding Elder)                   
  
- 
+### Mark Titles
+ - 1 Paladin
+ - Defender (Mark 1)
+ - Vindicator (Mark 2)
+ - Sheriff (Mark 3)
+ - Protector (Mark 4)
+ - Champion (Mark 5)
+ - Avatar (Mark 6)
+ - ? (Mark 7) 
+ - Epitome (Mark 8)
+ - Hero (Mark 9)
+ - Legend (Mark 10)
