@@ -2,7 +2,7 @@
 title: Bard
 description: Bard information
 published: true
-date: 2020-10-11T19:54:26.119Z
+date: 2020-10-11T19:54:45.559Z
 tags: 
 editor: markdown
 dateCreated: 2020-10-07T21:39:23.878Z
@@ -18,5 +18,5 @@ Bard is a bit of a mixture between a scoundrel and a priest. Because of their ab
   ### Elders and Guides
   ### Mark Titles
   - Bard (Standard)
-  - Trobadour (First Mark)
+  - Troubadour (First Mark)
   
