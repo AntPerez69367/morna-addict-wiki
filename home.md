@@ -2,7 +2,7 @@
 title: Welcome
 description: Welcome to the MornaAddict Wiki
 published: true
-date: 2020-10-11T01:57:07.119Z
+date: 2020-10-11T02:02:29.118Z
 tags: home
 editor: markdown
 dateCreated: 2020-10-05T18:33:50.037Z
@@ -54,7 +54,7 @@ dateCreated: 2020-10-05T18:33:50.037Z
   Hand Items
   Sub Accessories
 
-## General Spells
+## [General Spells](/en/GeneralSpells)
 
 
 ## Hunting Lists
