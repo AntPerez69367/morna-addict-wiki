@@ -1,15 +1,24 @@
 ---
-title: Druid
-description: Druid information
+title: 
+description: 
 published: true
-date: 2020-10-07T21:37:40.555Z
+date: 2020-10-11T18:57:49.011Z
 tags: 
 editor: markdown
 dateCreated: 2020-10-07T21:35:27.617Z
 ---
 
 # Druid
-  ## Lore
-  ## Elders and Guides
-  ## Spells
-  
+## Tans {.tabset}
+  ### Lore and History
+ - **Public Area (085,026 Wilderness)**
+ 
+ Druids are priests who can shapeshift into various forms. These different forms allow the priest to experience different play styles, such as a Priest/Rogue, a Tank, or a Melee Damage Dealer. Can also learn to use any Rabbit “Critter” Mob as a free mount!
+  ### Elders and Guides
+  ### Mark Titles
+  - Druid (Standard)
+- Hierophant (First Mark)
+- Mystic (Second Mark)
+- Earthwarden (Third Mark)
+- Elementalist (Fourth Mark)
+- Shifter (Fifth Mark)
