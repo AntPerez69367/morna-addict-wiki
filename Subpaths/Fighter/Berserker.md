@@ -2,7 +2,7 @@
 title: 
 description: 
 published: true
-date: 2020-10-11T18:45:43.439Z
+date: 2020-10-11T19:26:05.201Z
 tags: 
 editor: markdown
 dateCreated: 2020-10-07T21:33:15.569Z
@@ -12,9 +12,10 @@ dateCreated: 2020-10-07T21:33:15.569Z
  ## Tans {.tabset}
  ### Lore and History
   - **Public Area - 009,003 Cold Iron North**
- 
+######  **Description**
  Berserkers are a group of bloodthirsty and battleworn freelancers. Berserkers specialize in vicious attacks that deal substantial damage, with additional abilities that help them push themselves to the limits and protect them in their battles. 
  
+######  Lore
  The word Berserker.  Immediately, the image of a brutish warrior swinging a massive sword, cleaving multiple enemies in one shot, comes to mind.  Your image is not far off.  But it's a lot more than that.
 
 Each berserker could be different from the next.  Rage is a fickle thing.  Anyone can get mad, but few know how to channel this emotion to fuel their muscles and minds, causing them to perform impressive feats of strength and devastate the front lines of any vanguard.  Berserkers feel nothing in battle, with a mindset to overcome their foe, allowing nothing to stand in their way.
