@@ -2,7 +2,7 @@
 title: 
 description: 
 published: true
-date: 2020-10-11T18:57:49.011Z
+date: 2020-10-11T19:31:04.558Z
 tags: 
 editor: markdown
 dateCreated: 2020-10-07T21:35:27.617Z
@@ -12,7 +12,7 @@ dateCreated: 2020-10-07T21:35:27.617Z
 ## Tans {.tabset}
   ### Lore and History
  - **Public Area (085,026 Wilderness)**
- 
+######  Description
  Druids are priests who can shapeshift into various forms. These different forms allow the priest to experience different play styles, such as a Priest/Rogue, a Tank, or a Melee Damage Dealer. Can also learn to use any Rabbit “Critter” Mob as a free mount!
   ### Elders and Guides
   ### Mark Titles
