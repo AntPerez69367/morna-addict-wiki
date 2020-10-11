@@ -2,7 +2,7 @@
 title: Hwarang
 description: Hwarang information
 published: true
-date: 2020-10-11T18:17:22.243Z
+date: 2020-10-11T18:27:47.267Z
 tags: 
 editor: markdown
 dateCreated: 2020-10-07T21:33:49.251Z
@@ -21,7 +21,7 @@ Hwarang are Fighters who have honed their skills in self-sustaining fighting sty
  - Nang-Do (Second Mark)
  - Jeong-Do (Third Mark)
  - Sulsa-Do (Fourth Mark)
- - Abbot(Fifth Mark)
+ - Abbot (Fifth Mark)
   
  
  
