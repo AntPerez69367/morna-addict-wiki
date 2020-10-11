@@ -2,13 +2,16 @@
 title: 
 description: 
 published: true
-date: 2020-10-11T02:07:43.328Z
+date: 2020-10-11T02:08:06.010Z
 tags: 
 editor: markdown
 dateCreated: 2020-10-11T01:55:59.627Z
 ---
 
 # General Spells
+
+> All classes have access to General Spells 
+
 | Level | Spell Name | Description | Cost |
 | :---: | :---: | :---: | :---: |
 | 1 | Basic First Aid | 50 HP Self Heal | Learned in Tutorial |
