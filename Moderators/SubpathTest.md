@@ -2,14 +2,14 @@
 title: Test
 description: 
 published: true
-date: 2020-10-11T01:38:56.585Z
+date: 2020-10-11T01:45:03.429Z
 tags: 
 editor: markdown
 dateCreated: 2020-10-11T01:16:23.887Z
 ---
 
-<script>
-  table {
+<style>
+ table {
   color: #333;
   font-family: Helvetica,Arial,sans-serif;
   width: 640px;
@@ -39,7 +39,8 @@ tr:hover td {
   background: #666;
   color: #fff
 }
-</script>
+</style>
+
 # Header
 
 
