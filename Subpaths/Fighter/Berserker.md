@@ -2,7 +2,7 @@
 title: 
 description: 
 published: true
-date: 2020-10-11T18:27:13.429Z
+date: 2020-10-11T18:45:43.439Z
 tags: 
 editor: markdown
 dateCreated: 2020-10-07T21:33:15.569Z
@@ -32,6 +32,13 @@ Let none of this throw you.  Just because a berserker may seem overcome by their
  
   ### Elders and Guides
   ### Mark Titles
+ - Berzeker (Standard)
+ - Savage (First Mark)
+ - Brute (Second Mark)
+ - Colossus (Third Mark)
+ - Goliath (Fourth Mark)
+ - Titan (Fifth Mark)
+ - Whopper (Sixth Mark)
   
  
  
