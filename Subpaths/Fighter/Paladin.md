@@ -2,13 +2,14 @@
 title: Paladin
 description: Paladin information
 published: true
-date: 2020-10-11T17:50:48.282Z
+date: 2020-10-11T17:58:49.584Z
 tags: 
 editor: markdown
 dateCreated: 2020-10-07T21:34:17.008Z
 ---
 
 # Paladin
+  ## Tans {.tabset}
   ## Lore and History
    - Public Area (057, 074 East Gate of Cathay)
    
@@ -36,6 +37,7 @@ Staunchly self reliant and dependable, with the brawn of behemoth and the spirit
 
 **In the dark we shine. We don’t survive, we thrive. We are Paladins.**
 
+  ## Tans {.tabset}
   ## Elders and Guides
 **Current Elder** - MrPotatohead
 
