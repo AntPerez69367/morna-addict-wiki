@@ -1,8 +1,8 @@
 ---
-title: General Spells
-description: This is a list of spells every Exile recieves
+title: 
+description: 
 published: true
-date: 2020-10-11T01:55:59.627Z
+date: 2020-10-11T02:03:09.625Z
 tags: 
 editor: markdown
 dateCreated: 2020-10-11T01:55:59.627Z
