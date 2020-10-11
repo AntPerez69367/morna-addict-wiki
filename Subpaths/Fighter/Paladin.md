@@ -2,7 +2,7 @@
 title: 
 description: 
 published: true
-date: 2020-10-11T18:11:30.353Z
+date: 2020-10-11T18:15:31.549Z
 tags: 
 editor: markdown
 dateCreated: 2020-10-07T21:34:17.008Z
@@ -11,7 +11,7 @@ dateCreated: 2020-10-07T21:34:17.008Z
 # Paladin
 ## {.tabset}
 ### Lore and History
-   - Public Area (057, 074 East Gate of Cathay)
+ - **Public Area (057, 074 East Gate of Cathay)**
    
 Paladins are the classic “Fighter/Healer” combo. As a fighter turned Paladin, you are given extra spells such as better heals, mana restoration, and protection spells to better sustain yourself and your allies.
 
