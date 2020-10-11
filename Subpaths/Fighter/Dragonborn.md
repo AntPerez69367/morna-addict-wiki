@@ -2,7 +2,7 @@
 title: Dragonborn
 description: Dragonborn information
 published: true
-date: 2020-10-11T18:20:43.235Z
+date: 2020-10-11T19:05:58.923Z
 tags: dragonborn, db
 editor: markdown
 dateCreated: 2020-10-07T21:32:29.500Z
@@ -20,8 +20,6 @@ dateCreated: 2020-10-07T21:32:29.500Z
  - Wyvern (Mark 1)
  - Basilisk (Mark 2)
  - Dragoon (?)
-  
-### Elders and Guides
   
  
  
