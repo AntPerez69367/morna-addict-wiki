@@ -2,7 +2,7 @@
 title: 
 description: 
 published: true
-date: 2020-10-11T18:10:43.317Z
+date: 2020-10-11T18:11:30.353Z
 tags: 
 editor: markdown
 dateCreated: 2020-10-07T21:34:17.008Z
@@ -50,7 +50,7 @@ Slumberjack (Honorary Guide)
 Slumberjack (Founding Elder)                   
  
 ### Mark Titles
- - 1 Paladin
+ - Paladin (Standard)
  - Defender (Mark 1)
  - Vindicator (Mark 2)
  - Sheriff (Mark 3)
