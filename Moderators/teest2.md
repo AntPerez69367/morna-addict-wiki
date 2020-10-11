@@ -2,7 +2,7 @@
 title: Untitled Page
 description: 
 published: true
-date: 2020-10-11T02:42:05.741Z
+date: 2020-10-11T03:31:21.058Z
 tags: 
 editor: markdown
 dateCreated: 2020-10-11T02:42:05.741Z
@@ -10,7 +10,8 @@ dateCreated: 2020-10-11T02:42:05.741Z
 
 # Header
 Your content here
-
+<span class="ajaxttlink">
+testing 123 i have a tooltip</span>
 
 | Name |mgt  req|price|durability|ac|HIT|DAM|VITA|MANA|MGT|GRC|WIL|?|?|Class|MARK|LVL|regen|prot|S:damage|L:damage|
 | ---| --- | --- | -- | --- | --- | --- | --- | --- |--- | --- | --- | --- | --- | --- | --- | --- | --- | --- | :---: | :---: | 
