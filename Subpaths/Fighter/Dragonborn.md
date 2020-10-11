@@ -2,7 +2,7 @@
 title: Dragonborn
 description: Dragonborn information
 published: true
-date: 2020-10-08T02:04:45.496Z
+date: 2020-10-11T18:20:43.235Z
 tags: dragonborn, db
 editor: markdown
 dateCreated: 2020-10-07T21:32:29.500Z
@@ -10,20 +10,18 @@ dateCreated: 2020-10-07T21:32:29.500Z
 
 # Dragonborn
   ## Tans {.tabset}
-  ### Lore
-  Need more information.
+  ### Lore and History
+ - **Public Area (037,013 Blackstrike Tower Eye)**
+ 
+ Dragonborn are a path that doesn't yet have a good summary. Edit this page and add one!
+### Elders and Guides
+### Mark Titles
+ - Dragonborn (Standard)
+ - Wyvern (Mark 1)
+ - Basilisk (Mark 2)
+ - Dragoon (?)
   
-  The Dragonborn public area is located at the Blackstrike Tower Eye (037, 013)
-  ### Mark Titles
-  1. Dragonborn 
-  1. Wyvern 
-  1. Basilisk 
-  1. 
-  1.
-  1. Dragoon
-  
-  ### Elders and Guides
-  ### Spells
+### Elders and Guides
   
  
  
