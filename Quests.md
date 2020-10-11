@@ -2,7 +2,7 @@
 title: Quests
 description: 
 published: true
-date: 2020-10-09T02:04:06.721Z
+date: 2020-10-11T03:04:45.449Z
 tags: quest
 editor: markdown
 dateCreated: 2020-10-05T20:48:57.196Z
@@ -95,7 +95,10 @@ dateCreated: 2020-10-05T20:48:57.196Z
 4. Receive [Branch Shield] as Reward!
 
 **Level 91 - Black Strike's Keep**
- *pending info*
+1. Received from Professor Pete in Blackstrike Tower Eye
+2. Kill (1) Blackstrike on the top floor of the tower. Entrance is at (002, 030) below Professor Pete
+3. Return to Professor Pete
+
  
  ### NPC Quest Line 2
  
