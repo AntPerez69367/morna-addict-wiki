@@ -1,16 +1,15 @@
 ---
-title: 
+title: Medic
 description: 
 published: true
-date: 2020-10-11T19:03:39.113Z
+date: 2020-10-12T02:10:45.975Z
 tags: 
 editor: markdown
 dateCreated: 2020-10-07T21:36:25.968Z
 ---
 
-# Medic
- ## Tans {.tabset}
-  ### Lore and History
+## Tabs {.tabset}
+### Lore and History
  - **Public Area (126, 075 Cathay)**
  
 ######  **Overview:**
@@ -25,8 +24,13 @@ dateCreated: 2020-10-07T21:36:25.968Z
  - Medic (Standard)
  - Doctor (First Mark)
  - Engineer (Second Mark)
-- Artificer (Third Mark)
-- Synthesizer (Fourth Mark)
-- Creator (Fifth Mark) 
+ - Artificer (Third Mark)
+ - Synthesizer (Fourth Mark)
+ - Creator (Fifth Mark) 
+ - Pill Master (Sixth Mark)
+ - Pill King (Seventh Mark)
+ - Pill Emperor (Eigth Mark)
+ - Pill Saint (Ninth Mark)
+ - Pill God (Tenth Mark)
   
  
