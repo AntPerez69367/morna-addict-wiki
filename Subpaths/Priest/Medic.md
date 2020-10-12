@@ -2,7 +2,7 @@
 title: Medic
 description: 
 published: true
-date: 2020-10-12T02:10:45.975Z
+date: 2020-10-12T02:11:10.606Z
 tags: 
 editor: markdown
 dateCreated: 2020-10-07T21:36:25.968Z
@@ -19,8 +19,9 @@ dateCreated: 2020-10-07T21:36:25.968Z
 ######  **Lore:**
  
  Medics are scholars who specialize in rushing to the aid of others. We focus our research on engineering gadgets and constructs to aid us in our path. We also study medical arts such as Anatomy and Alchemy. Through our understanding of the body we gain the knowledge to rescue our friends and injure our foes. The only restriction a Medic has is the oath that they must take upon graduation. To either help or do no harm to their patients. 
-  ### Elders and Guides
-  ### Mark Titles
+ 
+### Elders and Guides
+### Mark Titles
  - Medic (Standard)
  - Doctor (First Mark)
  - Engineer (Second Mark)
