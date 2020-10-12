@@ -1,8 +1,8 @@
 ---
-title: 
-description: 
+title: General Spells
+description: Every class learns these.
 published: true
-date: 2020-10-11T02:17:25.292Z
+date: 2020-10-12T02:12:24.061Z
 tags: 
 editor: markdown
 dateCreated: 2020-10-11T01:55:59.627Z
