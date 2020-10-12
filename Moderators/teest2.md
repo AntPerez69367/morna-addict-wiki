@@ -2,7 +2,7 @@
 title: Untitled Page
 description: 
 published: true
-date: 2020-10-12T03:22:50.887Z
+date: 2020-10-12T03:27:10.864Z
 tags: 
 editor: markdown
 dateCreated: 2020-10-11T02:42:05.741Z
@@ -10,7 +10,6 @@ dateCreated: 2020-10-11T02:42:05.741Z
 
 # Header
 Your content here
-<html>
 <div class="tooltip">
     Adept Blade
     <span class="tooltiptext">
@@ -39,8 +38,7 @@ Your content here
             <pre><span style='color:green; float:right;'>Mark 1</span></pre>
         </span>
     </span>
-</div>
-</html>
+</div> 
 
 
 | Name |mgt  req|price|durability|ac|HIT|DAM|VITA|MANA|MGT|GRC|WIL|?|?|Class|MARK|LVL|regen|prot|S:damage|L:damage|
