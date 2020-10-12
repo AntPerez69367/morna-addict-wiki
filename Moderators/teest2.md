@@ -2,7 +2,7 @@
 title: Untitled Page
 description: 
 published: true
-date: 2020-10-11T03:31:21.058Z
+date: 2020-10-12T03:17:38.848Z
 tags: 
 editor: markdown
 dateCreated: 2020-10-11T02:42:05.741Z
@@ -10,8 +10,35 @@ dateCreated: 2020-10-11T02:42:05.741Z
 
 # Header
 Your content here
-<span class="ajaxttlink">
-testing 123 i have a tooltip</span>
+<div class="tooltip">
+    Adept Blade
+    <span class="tooltiptext2">
+        <pre><b>Adept Blade</b></pre>
+        <div class="dura">
+            <pre>Durability: <span class='tooltip-text'>100000</span></pre>
+        </div>
+        <div class="damage">
+            <pre>Damage </pre>
+            <span class="damage-numbers">
+                <pre>S: <span class='tooltip-text'>90m200</span></pre>
+                <pre>L: <span class='tooltip-text'>90m200</span></pre>
+            </span>
+        </div>
+        <div class="hit">
+            <pre>Hit: <span class='tooltip-text'>2</span></pre>
+            <pre>Dam: <span class='tooltip-text'>5</span></pre>
+        </div>
+        <pre>Vitality increase: <span class='tooltip-text'>2500</span></pre>
+        <pre>Mana increase: <span class='tooltip-text'>500</span></pre>
+        <pre>Might increase: <span class='tooltip-text'>3</span></pre>
+        <pre>Will: <span class='tooltip-text'>3</span></pre>
+        <pre>Grace increase: <span class='tooltip-text'>3</span></pre>
+        <span class="requirements">
+            <pre><span style='color:green; float:left;'>Any Class</span></pre>
+            <pre><span style='color:green; float:right;'>Mark 1</span></pre>
+        </span>
+    </span>
+</div>
 
 | Name |mgt  req|price|durability|ac|HIT|DAM|VITA|MANA|MGT|GRC|WIL|?|?|Class|MARK|LVL|regen|prot|S:damage|L:damage|
 | ---| --- | --- | -- | --- | --- | --- | --- | --- |--- | --- | --- | --- | --- | --- | --- | --- | --- | --- | :---: | :---: | 
