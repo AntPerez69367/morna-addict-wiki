@@ -2,7 +2,7 @@
 title: Untitled Page
 description: 
 published: true
-date: 2020-10-12T03:18:16.115Z
+date: 2020-10-12T03:19:14.698Z
 tags: 
 editor: markdown
 dateCreated: 2020-10-11T02:42:05.741Z
@@ -41,6 +41,8 @@ Your content here
     </span>
 </div>
 </html>
+
+
 | Name |mgt  req|price|durability|ac|HIT|DAM|VITA|MANA|MGT|GRC|WIL|?|?|Class|MARK|LVL|regen|prot|S:damage|L:damage|
 | ---| --- | --- | -- | --- | --- | --- | --- | --- |--- | --- | --- | --- | --- | --- | --- | --- | --- | --- | :---: | :---: | 
 | Adept Blade|125|12500|100000|0|2|5|2500|500|3|3|3|0|0|0|1|99|0|0|90m200|90m200|
