@@ -2,7 +2,7 @@
 title: wikiTestPage
 description: This page is here to test new ideas for the wiki.
 published: true
-date: 2020-10-11T04:34:48.768Z
+date: 2020-10-12T01:47:08.699Z
 tags: 
 editor: code
 dateCreated: 2020-10-11T04:29:02.384Z
@@ -10,19 +10,17 @@ dateCreated: 2020-10-11T04:29:02.384Z
 
 <!DOCTYPE html>
 <html>
-  
-<!-- NEEDED CSS FOR TOOLTIP -->
 <style>
 .tooltip {
   position: relative;
   display: inline-block;
+  border-bottom: 1px dotted black;
 }
 
 .tooltip .tooltiptext {
   visibility: hidden;
-  width: 200px;
+  width: 120px;
   background-color: black;
-  opacity:.5;
   color: #fff;
   text-align: center;
   border-radius: 6px;
@@ -31,7 +29,7 @@ dateCreated: 2020-10-11T04:29:02.384Z
   /* Position the tooltip */
   position: absolute;
   z-index: 1;
-  top: =5px;
+  top: -5px;
   left: 105%;
 }
 
@@ -39,67 +37,14 @@ dateCreated: 2020-10-11T04:29:02.384Z
   visibility: visible;
 }
 </style>
-<body>
+<body style="text-align:center;">
 
-<!-- THIS IS THE BEGINNG OF THE TOOLTIP TEST-->
+<h2>Right Tooltip</h2>
+<p>Move the mouse over the text below:</p>
 
+<div class="tooltip">Hover over me
+  <span class="tooltiptext">Tooltip text</span>
+</div>
 
-<br />
-<div class='tooltip'>Adept Blade
-	<span class='tooltiptext'>
-		<b>Adept Blade</b><br />
-		Durability: <span style='color:yellow;'>100000</span><br />
-		<table align='center'>
-			<tr>
-				<td align='right'>
-					Damage S: <span style='color:yellow;'>90m200
-				</td>
-			</tr>
-			<tr>
-<td align='right'>
-L: <span style='color:yellow;'>90m200</span><br />
-</td>
-</tr>
-</table>
-Vita: <span style='color:yellow;'>2500</span><br/>
-Mana: <span style='color:yellow;'>500</span><br/>
-Hit: <span style='color:yellow;'>2</span><br/>
-Dam: <span style='color:yellow;'>5</span><br/>
-Might: <span style='color:yellow;'>3</span><br/>
-Grace: <span style='color:yellow;'>3</span><br/>
-Will: <span style='color:yellow;'>3</span><br/>
-<span style='color:green;'>Any Class</span><br/>
-<span style='color:green;'>Mark 1</span><br/>
-<span>
-</div><br /><br />
-
-<br />
-<div class='tooltip'>Adept Dagger
-<span class='tooltiptext'>
-<b>Adept Dagger</b><br />
-Durability: <span style='color:yellow;'>100000</span><br />
-<table align='center'>
-<tr>
-<td align='right'>
-Damage S: <span style='color:yellow;'>90m200
-</td>
-</tr>
-<tr>
-<td align='right'>
-L: <span style='color:yellow;'>90m200</span><br />
-</td>
-</tr>
-</table>
-Vita: <span style='color:yellow;'>1000</span><br/>
-Mana: <span style='color:yellow;'>1250</span><br/>
-Hit: <span style='color:yellow;'>2</span><br/>
-Dam: <span style='color:yellow;'>1</span><br/>
-Might: <span style='color:yellow;'>3</span><br/>
-Grace: <span style='color:yellow;'>3</span><br/>
-Will: <span style='color:yellow;'>3</span><br/>
-<span style='color:green;'>Any Class</span><br/>
-<span style='color:green;'>Mark 1</span><br/>
-<span>
-</div><br /><br />
-  
 </body>
+</html>
