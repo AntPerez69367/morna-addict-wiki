@@ -1,8 +1,8 @@
 ---
-title: 
-description: 
+title: Paladin
+description: Paladins are the classic “Fighter/Healer” combo.
 published: true
-date: 2020-10-11T19:27:56.403Z
+date: 2020-10-12T02:05:51.435Z
 tags: 
 editor: markdown
 dateCreated: 2020-10-07T21:34:17.008Z
