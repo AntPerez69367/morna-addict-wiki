@@ -2,49 +2,35 @@
 title: wikiTestPage
 description: This page is here to test new ideas for the wiki.
 published: true
-date: 2020-10-12T01:47:08.699Z
+date: 2020-10-12T01:51:35.956Z
 tags: 
 editor: code
 dateCreated: 2020-10-11T04:29:02.384Z
 -->
 
 <!DOCTYPE html>
-<html>
-<style>
-.tooltip {
-  position: relative;
-  display: inline-block;
-  border-bottom: 1px dotted black;
-}
+<html lang="en">
+<head>
+  <title>Bootstrap Example</title>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/css/bootstrap.min.css">
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+  <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/js/bootstrap.min.js"></script>
+</head>
+<body>
 
-.tooltip .tooltiptext {
-  visibility: hidden;
-  width: 120px;
-  background-color: black;
-  color: #fff;
-  text-align: center;
-  border-radius: 6px;
-  padding: 5px 0;
-  
-  /* Position the tooltip */
-  position: absolute;
-  z-index: 1;
-  top: -5px;
-  left: 105%;
-}
-
-.tooltip:hover .tooltiptext {
-  visibility: visible;
-}
-</style>
-<body style="text-align:center;">
-
-<h2>Right Tooltip</h2>
-<p>Move the mouse over the text below:</p>
-
-<div class="tooltip">Hover over me
-  <span class="tooltiptext">Tooltip text</span>
+<div class="container">
+  <h3>Tooltip Options</h3>
+  <p>The <strong>html</strong> option specifies whether to accept HTML tags in the tooltip.</p>
+  <button class="btn btn-success btn-md">Hover over me</button>
 </div>
+
+<script>
+$(document).ready(function(){
+  $('.btn').tooltip({title: "<h1><strong>HTML</strong> inside <code>the</code> <em>tooltip</em></h1>", html: true, placement: "bottom"}); 
+});
+</script>
 
 </body>
 </html>
