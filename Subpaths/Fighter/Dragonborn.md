@@ -2,15 +2,14 @@
 title: Dragonborn
 description: Dragonborn information
 published: true
-date: 2020-10-11T19:05:58.923Z
+date: 2020-10-12T02:08:19.008Z
 tags: dragonborn, db
 editor: markdown
 dateCreated: 2020-10-07T21:32:29.500Z
 ---
 
-# Dragonborn
-  ## Tans {.tabset}
-  ### Lore and History
+## Tabs {.tabset}
+### Lore and History
  - **Public Area (037,013 Blackstrike Tower Eye)**
  
  Dragonborn are a path that doesn't yet have a good summary. Edit this page and add one!
