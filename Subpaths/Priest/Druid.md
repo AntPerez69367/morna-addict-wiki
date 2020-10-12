@@ -1,15 +1,14 @@
 ---
-title: 
+title: Druid
 description: 
 published: true
-date: 2020-10-11T19:31:04.558Z
+date: 2020-10-12T02:09:15.830Z
 tags: 
 editor: markdown
 dateCreated: 2020-10-07T21:35:27.617Z
 ---
 
-# Druid
-## Tans {.tabset}
+## Tabs {.tabset}
   ### Lore and History
  - **Public Area (085,026 Wilderness)**
 ######  Description
