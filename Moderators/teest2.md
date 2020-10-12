@@ -2,7 +2,7 @@
 title: Untitled Page
 description: 
 published: true
-date: 2020-10-12T03:19:14.698Z
+date: 2020-10-12T03:22:50.887Z
 tags: 
 editor: markdown
 dateCreated: 2020-10-11T02:42:05.741Z
@@ -13,7 +13,7 @@ Your content here
 <html>
 <div class="tooltip">
     Adept Blade
-    <span class="tooltiptext2">
+    <span class="tooltiptext">
         <pre><b>Adept Blade</b></pre>
         <div class="dura">
             <pre>Durability: <span class='tooltip-text'>100000</span></pre>
