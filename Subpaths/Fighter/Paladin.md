@@ -1,14 +1,13 @@
 ---
 title: Paladin
-description: Paladins are the classic “Fighter/Healer” combo.
+description: 
 published: true
-date: 2020-10-12T02:05:51.435Z
+date: 2020-10-12T02:06:23.925Z
 tags: 
 editor: markdown
 dateCreated: 2020-10-07T21:34:17.008Z
 ---
 
-# Paladin
 ## {.tabset}
 ### Lore and History
  - **Public Area (057, 074 East Gate of Cathay)**
