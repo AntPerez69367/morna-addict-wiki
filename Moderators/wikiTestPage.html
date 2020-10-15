@@ -2,7 +2,7 @@
 title: wikiTestPage
 description: This page is here to test new ideas for the wiki.
 published: true
-date: 2020-10-15T01:16:49.357Z
+date: 2020-10-15T01:28:04.548Z
 tags: 
 editor: code
 dateCreated: 2020-10-11T04:29:02.384Z
@@ -19,19 +19,19 @@ dateCreated: 2020-10-11T04:29:02.384Z
   
 <div id="tabset-main" class="tabset elevation-2">
  <ul class="tabset-tabs">
-   <li class="tabset-header is-active"> Test 1</li>
-   <li class="tabset-header"> Test 2</li>
-   <li class="tabset-header"> Test 3</li>
-   <li class="tabset-header"> Test 4</li>
+   <li onClick="selectTab(event, 'Warrior)"class="tabset-header is-active"> War</li>
+   <li onClick="selectTab(event, 'Rogue')" class="tabset-header"> Rogue</li>
+   <li onClick="selectTab(event, 'Wizard')"class="tabset-header"> Wiz</li>
+   <li onClick="selectTab(event, 'Priest')"class="tabset-header"> Priest</li>
  </ul>
 <div class="tabset-content">
-  <div class="tabset-panel is-active"> Test 1
+  <div id="Warrior" class="tabset-panel is-active"> Test 1
   </div>
-  <div class="tabset-panel"> Test 2
+  <div id="Rogue" class="tabset-panel"> Test 2
   </div>
-  <div class="tabset-panel"> Test 3
+  <div id="Wizard" class="tabset-panel"> Test 3
   </div>
-  <div class="tabset-panel"> Test 4
+  <div id="Priest" class="tabset-panel"> Test 4
   </div>
   </div>
   </div>
