@@ -2,7 +2,7 @@
 title: Welcome
 description: Welcome to the MornaAddict Wiki
 published: true
-date: 2020-10-11T02:02:29.118Z
+date: 2020-10-15T02:51:35.556Z
 tags: home
 editor: markdown
 dateCreated: 2020-10-05T18:33:50.037Z
@@ -19,7 +19,7 @@ dateCreated: 2020-10-05T18:33:50.037Z
 ## [Subpaths](/en/Subpaths)
 
 ### Tabs {.tabset}
-#### Fighter
+#### <img src="/images/icons/fightericon.png" style="vertical-align: middle;" /> <span style="vertical-align: middle;"> Fighter</span>
 
 - [Berserker](/en/Subpaths/Fighter/Berserker)
 - [Dragonborn](/en/Subpaths/Fighter/Dragonborn)
@@ -27,19 +27,19 @@ dateCreated: 2020-10-05T18:33:50.037Z
 - [Paladin](/en/Subpaths/Fighter/Paladin)
 
 
-#### Priest
+#### <img src="/images/icons/priesticon.png" style="vertical-align: middle;" /> <span style="vertical-align: middle;"> Priest</span>
 - [Bishop](/en/Subpaths/Priest/Bishop)
 - [Crusader](/en/Subpaths/Priest/Crusader)
 - [Druid](/en/Subpaths/Priest/Druid)
 - [Medic](/en/Subpaths/Priest/Medic)
 
-#### Scoundrel
+#### <img src="/images/icons/scoundrelicon.png" style="vertical-align: middle;" /> <span style="vertical-align: middle;"> Scoundrel</span>
 - [Bard](/en/Subpaths/Scoundrel/Bard)
 - [Ranger](/en/Subpaths/Scoundrel/Ranger)
 - [Shadow](/en/Subpaths/Scoundrel/Shadow)
 - [Spellthief](/en/Subpaths/Scoundrel/Spellthief)
 
-#### Wizard
+#### <img src="/images/icons/wizardicon.png" style="vertical-align: middle;" /> <span style="vertical-align: middle;"> Wizard</span>
 - [Arch Magi](/en/Subpaths/Wizard/ArchMagi)
 - [Phoenix](/en/Subpaths/Wizard/Phoenix)
 - [Vampire](/en/Subpaths/Wizard/Vampire)
