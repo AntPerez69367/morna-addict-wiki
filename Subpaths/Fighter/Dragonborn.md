@@ -2,7 +2,7 @@
 title: Dragonborn
 description: Dragonborn information
 published: true
-date: 2020-10-12T02:08:19.008Z
+date: 2020-10-16T00:18:08.563Z
 tags: dragonborn, db
 editor: markdown
 dateCreated: 2020-10-07T21:32:29.500Z
@@ -18,7 +18,9 @@ dateCreated: 2020-10-07T21:32:29.500Z
  - Dragonborn (Standard)
  - Wyvern (Mark 1)
  - Basilisk (Mark 2)
- - Dragoon (?)
+ - Hydra (Mark 4)
+ - Leviathan (Mark 5)
+ - Dragoon (Mark 6)
   
  
  
