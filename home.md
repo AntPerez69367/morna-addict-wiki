@@ -2,7 +2,7 @@
 title: Welcome
 description: Welcome to the MornaAddict Wiki
 published: true
-date: 2020-10-17T17:08:28.748Z
+date: 2020-10-25T20:07:20.775Z
 tags: home
 editor: markdown
 dateCreated: 2020-10-05T18:33:50.037Z
@@ -13,7 +13,8 @@ dateCreated: 2020-10-05T18:33:50.037Z
 {.is-info}
 
 ## Latest News
-  10/09/2020 - New Thanksgiving Event! Check out [Thanksgiving](/en/Guides/Thanksgiving) for help with solving the quests.
+test
+
 ## [Quests](/en/Quests)
 
 ## [Subpaths](/en/Subpaths)
