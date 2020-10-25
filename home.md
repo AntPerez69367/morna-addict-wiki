@@ -2,7 +2,7 @@
 title: Welcome
 description: Welcome to the MornaAddict Wiki
 published: true
-date: 2020-10-25T20:07:20.775Z
+date: 2020-10-25T20:07:31.229Z
 tags: home
 editor: markdown
 dateCreated: 2020-10-05T18:33:50.037Z
@@ -13,7 +13,7 @@ dateCreated: 2020-10-05T18:33:50.037Z
 {.is-info}
 
 ## Latest News
-test
+
 
 ## [Quests](/en/Quests)
 
