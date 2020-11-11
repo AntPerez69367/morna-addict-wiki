@@ -2,12 +2,13 @@
 title: General Spells
 description: Every class learns these.
 published: true
-date: 2020-11-11T19:34:46.977Z
+date: 2020-11-11T19:39:22.760Z
 tags: 
 editor: markdown
 dateCreated: 2020-10-11T01:55:59.627Z
 ---
 
+## {.tabset}
 # General Spells
 
 > All classes have access to General Spells 
@@ -17,6 +18,7 @@ dateCreated: 2020-10-11T01:55:59.627Z
 | 1 | Basic First Aid | 50 HP Self Heal | Learned in Tutorial |
 | 1 | Gateway | Teleport to a gate (N,W,S,E) on the map | Finishing Tutorial |
 | 35 | Approach | Teleport to a specific party member outside of a cave | 5,000 Gold |
+## {.tabset}
 # Fighter Spells
 | Level | Spell Name | Description | Cost |
 | :---: | :---: | :---: | :---: |
@@ -54,3 +56,8 @@ dateCreated: 2020-10-11T01:55:59.627Z
 | Mark v | Dragon's Strike | AOE Vita attack | 1 Hack (Mark V), 1 Rune Key(Dragon), 1 Dragon's heart, 400,000 coins | 
 | Mark VI | Spirit's Blade | Enhanced weapon enchantment giving 16x damage multiplier | 20 Raw Malchite, 20 Raw Hematite, 100 Raw Sapphire, 100 Raw Ruby, 1 Hack (Mark VI), 5,000,000 coins |
 | Mark VII | Master weapon | Enhanced weapon enchantment giving 18x damage multiplier | 20 Raw Malchite, 20 Raw Hematite, 100 Raw Sapphire, 100 Raw Ruby, 1 Hack (Mark VII), 10,000,000 coins|
+## {.tabset}
+# Wizard Spells
+| Level | Spell Name | Description | Cost |
+| :---: | :---: | :---: | :---: |
+
