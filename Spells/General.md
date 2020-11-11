@@ -2,7 +2,7 @@
 title: General Spells
 description: Every class learns these.
 published: true
-date: 2020-11-11T19:43:07.939Z
+date: 2020-11-11T19:43:21.429Z
 tags: 
 editor: markdown
 dateCreated: 2020-10-11T01:55:59.627Z
@@ -21,6 +21,7 @@ dateCreated: 2020-10-11T01:55:59.627Z
 
 ### Fighter Spells
 > All Fighter's have access to these  Spells
+
 | Level | Spell Name | Description | Cost |
 | :---: | :---: | :---: | :---: |
 |5 | Stag's Rage | Basic attack damage buff | 25 Dead Rabbit, 100 coins | 
