@@ -2,7 +2,7 @@
 title: Crusader
 description: Crusader information
 published: true
-date: 2020-11-11T23:18:15.052Z
+date: 2020-11-11T23:19:05.197Z
 tags: 
 editor: markdown
 dateCreated: 2020-10-07T21:34:56.465Z
@@ -29,8 +29,7 @@ dateCreated: 2020-10-07T21:34:56.465Z
 | 75 | Crosscut | Vita attack with overflow targeting in front of the caster | (Needs more information) |
 | ? | Templar's Might | Swing damage multiplier, stacks with Rage and other effects | (Needs more information) |
 | ? | Fist of Judgement | Taunts and draws in enemies within a 3-tile radius | (Needs more information) |
-| 99 | Giant's Call | Increase the vitality of all party members by 10% |
-(Needs more information) |
+| 99 | Giant's Call | Increase the vitality of all party members by 10% | (Needs more information) |
 | 99 | Holy Smite | Powerful 4-Way vita attack | (Needs more information) |
 | Mark I | Templar's Revenge | 12-Way AoE Scourge (Scourge only works on bosses and in PVP) | 1 Green Torch, 1 Head Strong, 1 Shillelagh (Mark I), 200,000 coins | 
 | Mark I | Crusader's Fortitude | Group Heal | 1 Tiger Fang, 1 Shillelagh, 100,000 coins | 
