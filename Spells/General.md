@@ -2,7 +2,7 @@
 title: General Spells
 description: Every class learns these.
 published: true
-date: 2020-11-11T19:34:32.806Z
+date: 2020-11-11T19:34:46.977Z
 tags: 
 editor: markdown
 dateCreated: 2020-10-11T01:55:59.627Z
@@ -22,7 +22,7 @@ dateCreated: 2020-10-11T01:55:59.627Z
 | :---: | :---: | :---: | :---: |
 |5 | Stag's Rage | Basic attack damage buff | 25 Dead Rabbit, 100 coins | 
 | 5 | Bash Face | Single target (Melee) damage spell | 15 Dead Rabbit, 15 Acorns, 150 coins |
-| 9 | Heal Others | Reestore 50 HP (target-able) | 75 Acorns, 75 coins |
+| 9 | Heal Others | Restore 50 HP (target-able) | 75 Acorns, 75 coins |
 | 10 | Flank | Deal damage to 4 adjacent enemies | 10 Acorns, 5 Dead Rabbits, 1 Flourspar, 200 coins |
 | 18 | Taunt | Attract an enemy | 10 Small Scale, 150 coins |
 | 24 | Lion's Fury | Upgrade from Stag's Rage; melee damage buff | 5 Antler's, 15 Black Fox Fur, 250 coins | 
