@@ -2,7 +2,7 @@
 title: General Spells
 description: Every class learns these.
 published: true
-date: 2020-11-11T19:43:21.429Z
+date: 2020-11-11T20:11:06.932Z
 tags: 
 editor: markdown
 dateCreated: 2020-10-11T01:55:59.627Z
@@ -62,4 +62,28 @@ dateCreated: 2020-10-11T01:55:59.627Z
 ### Wizard Spells
 | Level | Spell Name | Description | Cost |
 | :---: | :---: | :---: | :---: |
-
+| 5 | Zap | Beginner single target zap spell | 10 Dead Rabbit, 10 Acorns, 50 coins |
+| 7 | Lesser Paralyze | Paralyze your enemies | 1 Stew, 20 Acorn, 50 coins |
+| 9 | Invoke | Sacrifice Vita to creat Mana | 1 Apprentice Leathers, 1 Gold Acorn, 100 coins | 
+| 15 | Wizard's Heal | Heals target for 200 HP | 10 Small Scale, 1 Squid Ink, 150 coins | 
+| 24 | Greater Zap | Upgrade to Zap; Single target Zap spell | 1 Aloe, 2 Flourspar, 50 Acorns, 450 coins | 
+| 25 | Lesser Sanctuary | Magical armor; Removes [XX] amount of AC to target | 1 Lima Beans, 10 Antlers, 20 Snake Meat, 150 coins | 
+| 25 | Purge | Removes Poison from target | 10 Antlers, 1 Cannabis Leaf, 1 Gold Acorn, 150 coins |
+| 30 | Vex | Curses an enemy, adds [XX] amount of AC to target | 1 Rabbit's Foot, 70 Acorns, 250 coins |
+| 32 | Erupt | 5-Way target-able Zap spell | 1 Whiskey, 1 Gold Acorn, 5 Rainbow Fox Fur, 10 Light Fox Fur, 150 coins | 
+| 36 | Return Movement | Removes Paralyze | 1 Cannabis Leaf, 1 Gold Acorn, 150 coins | 
+| 40 | Venom | Deals damage over time to target | 1 Cannabis Leaf, 3 Fine Snake Meat, 10 Snake Meat, 500 coins |
+| 40 | Heal | Restores [XX] amount of HP to target | 1 Cannabis Leaf, 1 Gold Acorn, 10 Lima Beans, 100 coins |
+| 45 | Call Lightning | Upgrade to Greater Zap; Single target damage | 1 Head Games, 1 Gold Acorn, 500 coins |
+| 50 | Wizard's Fury | Increases spell damage | 1 Green Torch, 1,000 coins |
+| 55 | Inspire | Give Mana to your target | 70 Acorns, 100 coins |
+| 60 | Blind | Blind your enemies | 1 Raw Sapphire, 2 Raw Ruby, 400 coins |
+| 63 | Paralyze | Upgrade to Lesser Paralyze | 1 Forbidden Fruit, 20 Antler's, 500 coins |
+| 65 | Molten Flames | Single target burst damage | 1 Cult Staff, 2 Raw Ruby, 600 coins |
+| 65 | Electrocute | Upgrade to Call Lightning; Single target damage | 1 Raw Ruby, 70 Acorn, 500 coins |
+| 65 | Sleep | Puts and enemy to sleep (works on bosses) | 1 Bandit's Knife, 10 Raw Sapphire, 1,000 coins |
+| 77 | Storm Strike | Upgrade to Electrocute; Single targe damage | 1 Stilleto, 3 Raw Sapphire, 2,500 coins |
+| 80 | Doze | Puts an enemy to sleep (Usable in PVP) | 1 Bandit's Knife, 5 Raw Sapphire, 5,000 coins |
+| 92 | Storm | Upgrade to Erupt; 5-Way target-able Zap | 2 Raw Sapphire, 3 Gold Acorn, 5,000 coins |
+| 99 | Wizard's Solace | Heal's target for [XX] amount of HP | 2 Cannabis Leaf, 10,000 coins | 
+| 99 | Wizard's Rampage | Upgrade to Wizard's Fury; Increases spell damage | 1 Rune Key (Phoenix), 1 Rift, 50,000 coins |
