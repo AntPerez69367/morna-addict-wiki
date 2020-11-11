@@ -2,7 +2,7 @@
 title: Druid
 description: 
 published: true
-date: 2020-11-11T23:27:22.180Z
+date: 2020-11-11T23:28:09.487Z
 tags: 
 editor: markdown
 dateCreated: 2020-10-07T21:35:27.617Z
