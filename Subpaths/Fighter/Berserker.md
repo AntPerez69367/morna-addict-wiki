@@ -2,7 +2,7 @@
 title: Berserker
 description: 
 published: true
-date: 2020-10-12T02:07:47.971Z
+date: 2020-11-11T21:35:51.243Z
 tags: 
 editor: markdown
 dateCreated: 2020-10-07T21:33:15.569Z
@@ -39,6 +39,18 @@ Let none of this throw you.  Just because a berserker may seem overcome by their
  - Goliath (Fourth Mark)
  - Titan (Fifth Mark)
  - Whopper (Sixth Mark)
+ 
+ ### Berzerker Spells
+| Level | Spell Name | Description | Cost |
+| :---: | :---: | :---: | :---: |
+| 50 | Berzerker Rage | Grants +1 Might | (Needs more information) |
+| 50 | Push | Moves person or creature back one space. (Will not work if there is something under the person or monster) | (Needs more information) |
+| 50 | Smackdown | Swing-based damage that also self-heals 10% - 20% of max Vita, depending on how low the caster's HP is | (Needs more information) |
+| 75 | Iron Will | 20s curse immunity. Also removes all active curses | (Needs more information) |
+| 99 | Cut Down | 8-Way Vita attack | (Needs more information) |
+| 99 | Sunder | Single-target Vita attack | Requires Quest? (Needs more information) |
+| Mark I | Savage Form | All Vita attacks act as though the caster is full health and caster cannot be taken below 1 Vita while active | (Needs more information) | 
+| Mark II | Bloodbath | Adds 1% of current health to swing damage | 1 Hack (Mark II), 200,000 coins |
   
  
  
