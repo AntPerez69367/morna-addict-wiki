@@ -2,7 +2,7 @@
 title: Dragonborn
 description: Dragonborn information
 published: true
-date: 2020-11-11T21:42:29.516Z
+date: 2020-11-11T21:43:25.919Z
 tags: dragonborn, db
 editor: markdown
 dateCreated: 2020-10-07T21:32:29.500Z
@@ -34,6 +34,6 @@ dateCreated: 2020-10-07T21:32:29.500Z
 | Mark I | Flamtongue | Fire proc on melee swing 8% of swing | (Needs more information) |
 | Mark II | Dragon's Regen | 80?s Vita Regen | (Needs more information) |
 | Mark II | Greater Dragon Rage | Start off at Rage 2 @ 850s?| (Needs more information) |
-| Mark VI | Dragon Guard | 12s Mana shield |
+| Mark VI | Dragon Guard | 12s Mana shield | (Needs more information) |
  
  
