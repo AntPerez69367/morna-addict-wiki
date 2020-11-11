@@ -2,7 +2,7 @@
 title: General Spells
 description: Every class learns these.
 published: true
-date: 2020-11-11T20:15:23.045Z
+date: 2020-11-11T20:47:11.355Z
 tags: 
 editor: markdown
 dateCreated: 2020-10-11T01:55:59.627Z
@@ -60,6 +60,8 @@ dateCreated: 2020-10-11T01:55:59.627Z
 | Mark VII | Master weapon | Enhanced weapon enchantment giving 18x damage multiplier | 20 Raw Malchite, 20 Raw Hematite, 100 Raw Sapphire, 100 Raw Ruby, 1 Hack (Mark VII), 10,000,000 coins|
 
 ### Wizard Spells
+> All Wizard's have access to these Spells
+
 | Level | Spell Name | Description | Cost |
 | :---: | :---: | :---: | :---: |
 | 5 | Zap | Beginner single target zap spell | 10 Dead Rabbit, 10 Acorn, 50 coins |
@@ -87,3 +89,45 @@ dateCreated: 2020-10-11T01:55:59.627Z
 | 92 | Storm | Upgrade to Erupt; 5-Way target-able Zap | 2 Raw Sapphire, 3 Gold Acorn, 5,000 coins |
 | 99 | Wizard's Solace | Heal's target for [XX] amount of HP | 2 Cannabis Leaf, 10,000 coins | 
 | 99 | Wizard's Rampage | Upgrade to Wizard's Fury; Increases spell damage | 1 Rune Key (Phoenix), 1 Rift, 50,000 coins |
+### Scoundrel Spells
+> All Scoundrels have access to these Spells
+
+| Level | Spell Name | Description | Cost |
+| :---: | :---: | :---: | :---: |
+| 5 | Minor Invisible | Turn invisible increasing weapon damage | 10 Dead Rabbit, 10 Acorn, 50 coins | 
+| 9 | Heal Others | Heal [XX] amount of HP | 70 Acorn, 40 coins |
+| 11 | Dagger Throw | Single target ranged taunt (Minor Damage done to target) | 1 Aloe, 50 Acorn, 150 coins |
+| 15 | Squirrel's Fury | Increase attack damage | 1 Slime Stone, 1 Flourspar, 150 coins | 
+| 18 | Ambush | Leap behind your target | 10 Dead Rat, 500 coins |
+| 24 | Flash Trap | Set a trap on the ground that blinds an enemy | 1 Gold Carrot, 250 coins |
+| 25 | Detect Ambush | Reveals traps | 1 Light Fox Fur, 10 Red Fox Fur, 2 Flourspar, 100 Acorn, 250 coins |
+| 28 | Amnesia | Makes enemies forget they saw you | 1 Rabbit's Foot, 20 Black Fox Fur, 50 Acorn, 1,200 Coins |
+| 30 | Stag's Fury | Upgrade from Squirrel's Fury; Increase damage | 1 Light Fox Fur, 20 Red Fox Fur, 150 Acorn, 300 coins |
+| 34 | Invisible | Upgrade from Minor Invisible; Increase damage | 1 Flourspar, 1 Kumiho Tail, 500 coins |
+| 40 | Relief | Restore 400 HP | 1 Cannabis Leaf, 100 Acorn, 300 coins |
+| 45 | Mimic | Take on the form of another | 1 Steel Chakram, 500 coins |
+| 50 | Stealth Stance | Maintain stealth; not useable with invisible | 1 Katana, 1,000 coins |
+| 50 | Mangle | Burst damage at the cost of HP | 1 Stiletto, 2 Garnet, 50 Acorn, 500 coins |
+| 56 | Lion's Fury | Upgrade to Stag's Fury; Increases damage | 1 Katana, 1 Rabbit's Foot, 180 Acorn, 1,000 coins |
+| 66 | Spear Trap | Moderate damage | 3 Gold Carrot, 400 coins | 
+| 75 | Poisoned Shuriken | Moderate AOE damage that stuns | 10 Raw Sapphire, 190 Acorn, 5,000 coins | 
+| 80 | Mammoth's Fury | Upgrade to Lion's Fury; increases damagee | 1 Head Strong, 10,000 | 
+| 99 | Sleep Trap | Put your enemies to sleep | 4 Gold Carrot, 10,000 coins |
+| 99 | Assassinate | Upgrade to Mangle; Burst damage | 1 Whisper Bracelet, 1 Crimson Gauntlet, 1 Cult Staff, 50,000 coins |
+| 99 | Vigor | Heal 1,000 HP | 1 Cannabis Leaf, 25,000 coins | 
+| 99 | Scoundrel's Cunning | Advanced attack damage buff, has 3 tiers | 1 Jag, 1 Run Key (Tiger), 1 Pocketwatch, 50,000 coins |
+| Mark I | Salvation | Heal 2k HP | 1 Cannabis Leaf, 10,000 coins | 
+| Mark I | Race | Jump 2 spaces | 100,000 coins | 
+| Mark I | Enchant | Enchants weapon to deal additional damage | 2 Head Hunter, 2 Steel Thorn, 1 Jag (Mark I), 40,000 coins |
+| Mark II | Bladestorm | Unleash a massive bladestorm! | 400,000 coins |
+| Mark 2 | Chance | 60% chance to cast invoke! | 5 Gold Carrot, 5 Gold Acorn, 250,000 coins |
+| Mark II | Shadow's Blade | Enchants your weapon for bonus damage | 4 Head Hunter, 4 Steel Thorn, 1 Jag (Mark II), 60,000 coins |
+| Mark 2 | Dragon's Breath | Heals 3.2k HP | 1 Cannabis Leaf, 25,000 coins | 
+| Mark 2 | Shatter | Your swings strike surrounding mobs | 5 Raw Ruby, 2,000 coins |
+| Mark III | Mending of the Soul | Heal 4k HP | 5 Cannabis Leaf, 2,000 coins |
+| Mark III | Blade's Charm | Enchant your weapon for bonus damage | 80,000 coins |
+| Mark III | Brutality | Expend your life force to attack with Brutality! | 1 Jag, 1 Hack, 600,000 coins |
+| Mark IV | Shadow's Subterfuge | Enchant your weapon for bonus damage | 20 Raw Malchite, 20 Raw Hematite, 100 Raw Sapphire, 100 Raw Ruby, 1 Jag (Mark IV), 450,000 coins | 
+| Mark IV | Storm of Misery | Weaken enemies around you (SC, bosses only) | 500,000 coins | 
+| Mark IV | Lord's Vigor | Heal 1% of maxmimum Vita | 4 Head Hunter, 4 Steel Thorn, 1 Jag (Mark IV), 450,000 coins | 
+| Mark IV | Swashbuckler Strike | Ambush multiple foes | 1,000,000 coins |
