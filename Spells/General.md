@@ -2,7 +2,7 @@
 title: General Spells
 description: Every class learns these.
 published: true
-date: 2020-11-11T19:42:11.413Z
+date: 2020-11-11T19:43:07.939Z
 tags: 
 editor: markdown
 dateCreated: 2020-10-11T01:55:59.627Z
@@ -20,6 +20,7 @@ dateCreated: 2020-10-11T01:55:59.627Z
 | 35 | Approach | Teleport to a specific party member outside of a cave | 5,000 Gold |
 
 ### Fighter Spells
+> All Fighter's have access to these  Spells
 | Level | Spell Name | Description | Cost |
 | :---: | :---: | :---: | :---: |
 |5 | Stag's Rage | Basic attack damage buff | 25 Dead Rabbit, 100 coins | 
