@@ -2,7 +2,7 @@
 title: Ranger
 description: 
 published: true
-date: 2020-11-11T22:20:28.421Z
+date: 2020-11-11T22:21:03.485Z
 tags: 
 editor: markdown
 dateCreated: 2020-10-07T21:39:47.332Z
@@ -26,7 +26,7 @@ Ranger is a high damage AoE path. They excel at soloing, when fighting lower exp
 | 50 | Ride Deer | Summons a deer and allows the player to ride wild deer | 1 Cannabis Leaf, 1,000 coins | 
 | 50 | Hunter's Eye | Cosmetic spell, does nothing | 1 Flourspar, 150 coins |
 | 50 | Bow Stance | Casters bow range is extended to 3 spaces in front of the player | 1 Gold Acorn, 5,000 coins |
-| 50 | Shatter Strike | Casters bo range is extended to strike 9 targets in front of the player, reduces damage by 30% | 1 Katanam 5,000 coins |
+| 50 | Shatter Strike | Casters bow range is extended to strike 9 targets in front of the player, reduces damage by 30% | 1 Katanam 5,000 coins |
 | 55 | Strafe Stance | Casters bow range is extended to strike 9 targets spread out(cone), reduces damage by 30% | 1 Gold Carrot, 5,000 coins |
 | 85 | Piercing Shot | Shoot a piercing shit, hits enemies in the same direction as your stance. Damage affected by Vita, Mana and Cunning. | 1 Steel Thorn, 25,000 coins | 
 | 99 | Snipe | Snipe a target from afar, 12 tile range Vita attack | 1 Head Hunter, 1 Jag, 50,000 coins |
