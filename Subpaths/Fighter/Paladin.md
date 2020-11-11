@@ -2,7 +2,7 @@
 title: Paladin
 description: 
 published: true
-date: 2020-10-12T02:06:23.925Z
+date: 2020-11-11T22:05:09.867Z
 tags: 
 editor: markdown
 dateCreated: 2020-10-07T21:34:17.008Z
@@ -59,3 +59,20 @@ Slumberjack (Founding Elder)
  - Epitome (Mark 8)
  - Hero (Mark 9)
  - Legend (Mark 10)
+ ### Paladin Spells 
+ | Level | Spell Name | Description | Cost |
+| :---: | :---: | :---: | :---: |
+| 50 | Read Karma | Read Karma, no requirements to cast, 180s cooldown | 1 Cannabis Leaf, 1,000 coins | 
+| 50 | Annoint | 750 HP Heal, 150 Mana to cast, 0s cooldown | 1 Zanbato, 5,000 coins |
+| 50 | Sever Bond | Divorce spell, target-able, no requirement to cast, 0s cooldown | 1 Blood Stone, 1 Wedding Ring, 1,000 coins |
+|50 | Invoke | Sacrifice 30% of Mana to refill Vita, 30s cooldown | 1 Gold Acorn, 5,000 coins |
+| 50 | Aura of Good | Roleplay effect spell for 30s, 300s cooldown | 1 Gold Acorn, 5,000 coins | 
+| 60 | Holy Cleanse | Self-Atone, 50 Mana to cast, 0s cooldown | 2 Raw Sapphire, 2,000 coins | 
+| 75 | Call to Arms | 1 hour Sanctuary spell, 60 Mana to cast | 1 Electra, 25,000 coins |
+| 99 | Lay Hands | 3k HP Heal, 300 Mana to cast, 0s cooldown | 1 Hack, 25,000 coins |
+| 99 | Provoke Room | Room taunt | 1 Head Honcho, 25,000 coins | 
+| Mark I | Forge Life | 7k Heal | 5 Cannabis Leaf, 10,000 coins |
+| Mark I | Divine Restoration | Targetable Restore. Expend 30% of remaining Mana to cast 400% of that Mana amount on target, 10s cooldown | 1 Zanbato, 1 Head Honcho, 1 Hack (Mark I), 200,000 coins |
+| Mark II | Curse Evil | 8-way curse, only usuable on bosses and PVP | 1 Hack (Mark 2), 150,000 coins |
+| Mark II | Earth's Cradle | 16k Heal | 5 Cannabis Leaf, 25,000 coins |
+| Mark III | Vital Charge | 40k Heal | 10 Cannabis Leaf, 50,000 coins |
