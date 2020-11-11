@@ -2,7 +2,7 @@
 title: General Spells
 description: Every class learns these.
 published: true
-date: 2020-11-11T19:33:10.420Z
+date: 2020-11-11T19:34:32.806Z
 tags: 
 editor: markdown
 dateCreated: 2020-10-11T01:55:59.627Z
@@ -34,7 +34,7 @@ dateCreated: 2020-10-11T01:55:59.627Z
 | 55 | Infuse | Upgrade from Enchant;Adds damage | 1 Stiletto, 10 Antler's, 20 Red Fox Fur, 1000 coins |
 | 60 | Relief | Heal yourself for 400 HP | 80 Acorns, 5 Rainbow Fox Fur, 5 Light Fox Fur, 20 Red Fox Fur, 200 coins |
 | 65 | Enraged Stance | Deal more damage at the cost of defense (Only 1 stance can be active at one time) | 1 Raw Hematite, 5 Fresh Eggs, 5 Antlers, 1000 coins |
-| 70 | Ingress | UPgrade to Infuse; Adds damage | 1 Zanbato, 10 Raw Ruby, 10 Antlers, 1500 coins | 
+| 70 | Ingress | Upgrade to Infuse; Adds damage | 1 Zanbato, 10 Raw Ruby, 10 Antlers, 1500 coins | 
 | 75 | Spirit's Fury | Upgrade to Mammoth's Fury; Melee damage buff | 1 Forbidden Fruit, 10,000 coins |
 | 80 | Crosscut | Deal damage to 3 enemies in front of you | 1 Zanbato, 1 Bandit's Knife, 20 Raw Ruby, 5000 coins | 
 | 99 | Doom Spike | Deal damage to a single enemy at the cost of HP | 1 Electra, 20 Raw Sapphire, 1 Fire Agate, 50000 coins |
