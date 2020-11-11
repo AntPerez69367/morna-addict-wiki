@@ -2,7 +2,7 @@
 title: General Spells
 description: Every class learns these.
 published: true
-date: 2020-11-11T20:47:11.355Z
+date: 2020-11-11T21:04:12.643Z
 tags: 
 editor: markdown
 dateCreated: 2020-10-11T01:55:59.627Z
@@ -131,3 +131,18 @@ dateCreated: 2020-10-11T01:55:59.627Z
 | Mark IV | Storm of Misery | Weaken enemies around you (SC, bosses only) | 500,000 coins | 
 | Mark IV | Lord's Vigor | Heal 1% of maxmimum Vita | 4 Head Hunter, 4 Steel Thorn, 1 Jag (Mark IV), 450,000 coins | 
 | Mark IV | Swashbuckler Strike | Ambush multiple foes | 1,000,000 coins |
+### Priest Spells
+>All Priest's have access to these Spells
+
+| Level | Spell Name | Description Cost |
+| :---: | :---: | :---: | :---: |
+| 5 | Stag's Fury | Increases attack damage | 10 Dead Rabbit, 10 Acorn, 25 coins |
+| 5 | Minor Heal | Heal [XX] amount of target's HP | 5 Chestnut, 25 coins |
+| 9 | Invoke | Sacrifice Vita to create Mana | 1 Mead, 1 Squid Ink, 50 coins |
+| 11 | Flare | Single target taunt; Minor damage | 1 Aloe, 50 Acorn, 150 coins |
+| 11 | Bop | Single target melee attack; can crit often | 1 Red Wine, 10 Dead Rabbit, 20 Acorn, 100 coins |
+| 15 | Sanctuary | Magical armor; Removes [XX] amount of AC to target | 1 Squid Ink, 1 Talisman, 150 coins |
+| 18 | Lion's Fury | Upgrade to Stag's Fury; Increases damage | 1 Apprentice Leathers, 20 Snake meat, 100 coins |
+| 20 | Restore Vision | Removes Blind | 1 Cannabis Leaf, 250 coins |
+| 22 | Enchant | Enchant your weapon to increase damage | 1 Stiletto, 5 Antler, 10 Black Fox Fur, 150 coins | 
+| 25 | Heal | Restores [XX]
