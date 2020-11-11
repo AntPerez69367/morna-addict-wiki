@@ -2,7 +2,7 @@
 title: General Spells
 description: Every class learns these.
 published: true
-date: 2020-11-11T21:04:12.643Z
+date: 2020-11-11T21:28:11.824Z
 tags: 
 editor: markdown
 dateCreated: 2020-10-11T01:55:59.627Z
@@ -134,7 +134,7 @@ dateCreated: 2020-10-11T01:55:59.627Z
 ### Priest Spells
 >All Priest's have access to these Spells
 
-| Level | Spell Name | Description Cost |
+| Level | Spell Name | Description | Cost |
 | :---: | :---: | :---: | :---: |
 | 5 | Stag's Fury | Increases attack damage | 10 Dead Rabbit, 10 Acorn, 25 coins |
 | 5 | Minor Heal | Heal [XX] amount of target's HP | 5 Chestnut, 25 coins |
@@ -145,4 +145,24 @@ dateCreated: 2020-10-11T01:55:59.627Z
 | 18 | Lion's Fury | Upgrade to Stag's Fury; Increases damage | 1 Apprentice Leathers, 20 Snake meat, 100 coins |
 | 20 | Restore Vision | Removes Blind | 1 Cannabis Leaf, 250 coins |
 | 22 | Enchant | Enchant your weapon to increase damage | 1 Stiletto, 5 Antler, 10 Black Fox Fur, 150 coins | 
-| 25 | Heal | Restores [XX]
+| 25 | Heal | Restores [XX] amount of HP to target | 1 Squid Ink, 10 Snake Meat, 200 coins |
+| 25 | Purge | Removes Poison from target | 1 Mead, 10 Snake Meat, 100 coins |
+| 25 | Atone | Removes Curses from target | 1 Talisman, 1 Gold Acorn, 100 coins |
+| 30 | Inspire | Give most of your Mana to your target | 1 Garnet, 1 Gold Acorn, 150 coins | 
+| 36 | Resurrect | Bring a dead player back to life | 1 Flourspar, 5 Light Fox Fur, 15 Red Fox Fur, 1,000 coins |
+| 40 | Mammoth's Fury | Upgrade to Lion's Fury; Melee damage buff | 1 Eden Ring, 1,000 coins |
+| 40 | Anoint | Restores [XX] amount of HP to target | 1 Garnet, 1 Red Wine, 1,000 coins | 
+| 45 | Infuse | Upgrade from Enchant; Increases damage | 1 Cannabis Leaf, 20 Black Fox Fur, 500 coins |
+| 45 | Holy Aura | Restore [XX] Vita over time to party members | 5 Raw Ruby, 1,000 coins | 
+| 50 | Retribution | Target-able single target burst damage | 1 Ring of Prevention, 1 Green Torch, 2,000 coins |
+| 50 | Scourge | Curses an enemy; Adds [XX] amount of AC to target (Only usable on bosses and PVP) | 2 Raw Ruby, 80 Acorn, 1,000 coins |
+| 50 | Dispel | Removes all spells from target | 1 Green Torch, 1,000 coins | 
+| 65 | Spirit's Fury | Upgrade to Mammoth's Fury; Melee damage buff | 1 Cult Staff, 80 Acorn, 1,000 coins |
+| 70 | Ingress | Upgrade to Infuse; Adds damage | 1 Head Strong, 1 Cannabis Leaf, 1,500 coins |
+| 95 | River of Recovery | Restores [XX] amount of HP to target | 1 Master Vita Potion, 1 Raw Sapphire. 100 Acorn, 5,000 coins | 
+| 99 | Lesser Restore | Restore health of target based on current % of Mana | 1 Cult Staff, 100 Dead Rabbit, 200 Acorn, 100,000 coins | 
+| 99 | Priest's Vengeance | Leveled Rage spell increasing swing damage | 1 Shillelagh, 1 Rune Key (Turtle), 1 Eden Ring, 50,000 coins |
+| Mark I | Stream of Life | Improved single target heal | 1 Cannabis Leaf, 10,000 coins | 
+| Mark I | Viper's Venom | Improved weapon enchantment | 2 Eden Ring, 2 Elm Staff, 1 Shillelagh (Mark I), 40,000 coins |
+| Mark II | Dragon's Flame | Improved weapon enchantment | 4 Eden Ring, 4 Elm Staff, 1 Shillelagh (Mark II), 60,000 coins |
+| Mark II | Shield of Light | (Needs more information) | 50 Raw Ruby, 150,000 coins |
