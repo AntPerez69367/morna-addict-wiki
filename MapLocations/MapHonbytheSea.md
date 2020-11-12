@@ -2,7 +2,7 @@
 title: Map: Hon by the Sea
 description: 
 published: true
-date: 2020-11-12T12:41:58.261Z
+date: 2020-11-12T12:43:15.414Z
 tags: 
 editor: markdown
 dateCreated: 2020-11-12T12:41:58.261Z
@@ -25,19 +25,19 @@ The Stable |	014,006|
 The Weapon Smith |	057,062|
 The Armor Shop |	058,051|
 The Ring & Potion Shop |	067,051|
-The Butcher |	|067,062|
-The Game Room |	|021,055|
+The Butcher |067,062|
+The Game Room	|021,055|
 The Oracle |	092,024|
 Harveys (Smoke) Hut |	101,123|
 Banon’s Workshop |	028,112|
 The Palace 	|022,033|
 Town Administrator |	016,038|
 The Parcel Shop |	020,128|
-Three Tree Inn |	121,132|
-Hon City Eye |	100,142|
-The Tranquil Pond 	|017,080|
-The Guild Building| 	|033,128|
-The Minor Quest |(Bounty)| 	014,140|
+Three Tree Inn | 121,132|
+Hon City Eye | 100,142|
+The Tranquil Pond |017,080|
+The Guild Building |033,128|
+The Minor Quest (Bounty)| 014,140|
 The Fur Trader |	091,128|
 The House Boat |	098,033|
 The Hermits Hut |	130,008|
