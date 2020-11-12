@@ -2,7 +2,7 @@
 title: General Spells
 description: Every class learns these.
 published: true
-date: 2020-11-12T01:26:00.143Z
+date: 2020-11-12T01:30:15.097Z
 tags: 
 editor: markdown
 dateCreated: 2020-10-11T01:55:59.627Z
@@ -132,7 +132,7 @@ dateCreated: 2020-10-11T01:55:59.627Z
 | Mark IV | Lord's Vigor | Heal 1% of maxmimum Vita | 4 Head Hunter, 4 Steel Thorn, 1 Jag (Mark IV), 450,000 coins | 
 | Mark IV | Swashbuckler Strike | Ambush multiple foes | 1,000,000 coins | 
 | Mark V | Dagger's Polish | Upgraded Enchant | 20 Raw Malchite, 20 Raw Hematite, 100 Raw Sapphire, 100 Raw Ruby, 1 Jag (Mark V), 1,000,000 coins |
-| Mark V | Tiger's Swipe | (Needs more information) | 1 Jag (Mark V),1 Rune Key (Tiger), 1 Pocketwatch, 400,000 coins |
+| Mark V | Tiger's Swipe | Mana-based frontal cone attack | 1 Jag (Mark V),1 Rune Key (Tiger), 1 Pocketwatch, 400,000 coins |
 | Mark VI | Dragon's Flame | Upgraded Enchant | 20 Raw Malchite, 20 Raw Hematite, 100 Raw Sapphire, 100 Raw Ruby, 1 Jag (Mark VI), 5,000,000 coins |
 ### Priest Spells
 >All Priest's have access to these Spells
