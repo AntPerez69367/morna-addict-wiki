@@ -2,14 +2,14 @@
 title: Map: Hon by the Sea
 description: 
 published: true
-date: 2020-11-12T12:43:15.414Z
+date: 2020-11-12T21:09:15.102Z
 tags: 
 editor: markdown
 dateCreated: 2020-11-12T12:41:58.261Z
 ---
 
 # Map: Hon by the Sea
-## {.tabset}
+
 ### Places in Town
 | **Location** | Coordinates |
 | :---: | :---: | 
@@ -43,3 +43,4 @@ The House Boat |	098,033|
 The Hermits Hut |	130,008|
 The Militia Bunks |	098,005|
 The House of Grace |	058,022 |
+
