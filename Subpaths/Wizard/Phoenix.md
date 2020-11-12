@@ -2,7 +2,7 @@
 title: Phoenix
 description: Phoenix information
 published: true
-date: 2020-11-12T11:01:53.932Z
+date: 2020-11-12T11:02:30.452Z
 tags: 
 editor: markdown
 dateCreated: 2020-10-07T21:42:08.936Z
@@ -21,7 +21,7 @@ dateCreated: 2020-10-07T21:42:08.936Z
 | :---: | :---: | :---: | :---: |
 | 50 | Ride Horse | Summon and ride a Horse | 1 Cannabis Leaf, 1,000 coins |
 | 50 | Fiery Rebirth | Adds +1 Grace to everyone on map | 1 Flourspar, 150 coins |
-| 50 Phoenix Overload | Temporary boost to all Zap attacks | 5 Raw Ruby, 2,000 coins | 
+| 50 | Phoenix Overload | Temporary boost to all Zap attacks | 5 Raw Ruby, 2,000 coins | 
 | 55 | Wings of Flames | Targetable Mana-based AoE (3x3) (1.3x mana - 9 ways,square) | 1 Cult Staff, 10,000 coins |
 | 75 | Flash Fire | 	Blinds all foes surrounding caster (usable in PVP) | 1 Kumiho Tail, 50,000 coins |
 | 95 | Phoenix Soar | Soar past enemies while raining fire on them - AoE attack that deals initial burst damage and then continues burning tick damage (8x3) | 1 Rift, 25,000 coins |
