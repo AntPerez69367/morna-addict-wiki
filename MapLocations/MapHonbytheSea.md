@@ -2,7 +2,7 @@
 title: Map: Hon by the Sea
 description: 
 published: true
-date: 2020-11-12T21:09:47.341Z
+date: 2020-11-12T21:24:32.850Z
 tags: 
 editor: markdown
 dateCreated: 2020-11-12T12:41:58.261Z
@@ -10,6 +10,8 @@ dateCreated: 2020-11-12T12:41:58.261Z
 
 ## {.tabset}
 ### Places in Town
+![hon_by_the_sea.png](/images/hon_by_the_sea.png)
+
 | **Location** | Coordinates |
 | :---: | :---: | 
 |The Tutor |	057,105 |
