@@ -2,7 +2,7 @@
 title: Mapped Locations
 description: 
 published: true
-date: 2020-11-12T11:14:17.676Z
+date: 2020-11-12T11:20:57.177Z
 tags: 
 editor: markdown
 dateCreated: 2020-11-12T11:14:17.676Z
