@@ -2,7 +2,7 @@
 title: Phoenix
 description: Phoenix information
 published: true
-date: 2020-11-12T11:02:30.452Z
+date: 2020-11-12T11:04:09.447Z
 tags: 
 editor: markdown
 dateCreated: 2020-10-07T21:42:08.936Z
@@ -16,6 +16,12 @@ dateCreated: 2020-10-07T21:42:08.936Z
  ###### Lore
  Kaw, as a young wizard, had come across the unhatched egg of the Great Phoenix JuJak, still radiant and warm in a pile of burning embers.  When she picked up the egg to care for it, a magical transferrance of energy and wisdom passed on to her, rapidly aging her.  Kaw then vowed to use this great power to protect the egg and become it's warden.  The inherited knowledge she gained allowed her to resurrect when she became too frail so that she could continue caring for the egg over the ages.  Kaw eventually became sick with madness, as each resurrection flooded her mind with all the knowledge of the Phoenix's many incarnations.  The burden of JuJak's gift became too much to bear on the mind of one human and so she began entrusting the power with other wizards who were just as strong-willed and compassionate.  ModZ became the first Elder of this Phoenix Odyssey.  
  ### Elders and Guides
+ **Current Elder** - 
+ 
+ **Current Guides:**
+ ### Mark Titles
+ **Founding/Retired Elders:**
+ 
   ### Phoenix Spells
   | Level | Spell Name | Description | Cost |
 | :---: | :---: | :---: | :---: |
