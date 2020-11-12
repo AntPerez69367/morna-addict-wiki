@@ -1,8 +1,8 @@
 ---
-title: Mapped Locations
+title: Map Locations
 description: 
 published: true
-date: 2020-11-12T11:20:57.177Z
+date: 2020-11-12T21:13:59.408Z
 tags: 
 editor: markdown
 dateCreated: 2020-11-12T11:14:17.676Z
