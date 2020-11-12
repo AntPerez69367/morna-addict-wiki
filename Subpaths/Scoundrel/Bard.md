@@ -2,7 +2,7 @@
 title: Bard
 description: Bard information
 published: true
-date: 2020-11-11T22:12:44.350Z
+date: 2020-11-12T01:18:01.278Z
 tags: 
 editor: markdown
 dateCreated: 2020-10-07T21:39:23.878Z
@@ -34,4 +34,6 @@ Bard is a bit of a mixture between a scoundrel and a priest. Because of their ab
 | Mark II | Bard's Melody | Mana-based group heal | 1 Jag (Mark II), 200,000 coins | 
 | Mark II | Earth's Cradle | 16k heal | (Needs more information) |
 | Mark III | Vital Charge | 40k heal | (Needs more information) |
-  
+| Mark IV | Life's Gift | 70k Heal | 4 Head Hunter, 4 Steel Thorn, 1 Jag (Mark IV), 10 Cannabis Leaf, 450,000 coins |
+| Mark V | Master's Heal | 140k Heal | 20 Raw Malchite, 20 Raw Hematite, 100 Raw Sapphire, 1 Jag (Mark V), 10 Cannabis Leaf, 1,000,000 coins |
+| Mark VI | Yuk's Annointment | 100 Raw Malchite, 100 Raw Hematite, 100 Raw Sapphire, 1 Jag (Mark VI), 10 Cannabis Leaf, 5,000,000 coins |
