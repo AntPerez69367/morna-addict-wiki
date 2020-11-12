@@ -2,7 +2,7 @@
 title: Crafting Guide
 description: Information related to crafting in Morna TK
 published: true
-date: 2020-10-25T21:26:57.390Z
+date: 2020-11-12T01:11:57.986Z
 tags: 
 editor: markdown
 dateCreated: 2020-10-10T01:16:36.505Z
@@ -10,6 +10,7 @@ dateCreated: 2020-10-10T01:16:36.505Z
 
 
 # General Crafting Information
+>There is a hub of most gathering caves just north of Cathay.
 # Tabs {.tabset}
 ## TNL Chart
 
@@ -36,10 +37,13 @@ dateCreated: 2020-10-10T01:16:36.505Z
 # Tabs {.tabset}
 ## Mining
 ### Info
+Learned from Miner Bronson in hut at 035, 097 Wilderness. (Just south from out of the Eye)
 ## Woodcutting
 ### Info
+Learned from Lumberjack Paul inside hut at 120,163 south gate Wilderness.
 ## Shearing
 ### Info
+Learned from Shepard Whitney inside hut at 028,094 Wilderness, town just south of the eye.
 ## Herbalism
 ### Info
 ## Fishing
@@ -54,9 +58,13 @@ dateCreated: 2020-10-10T01:16:36.505Z
 # Tabs {.tabset}
 ## Carpentry
 ### Info
+Learned from Lumberjack Paul inside hut at 120,163 south gate Wilderness.
 ## Smithing
 ### Info
+Learned from Miner Bronson in hut at 035, 097 Wilderness. (Just south from out of the Eye)
 ## Weaving
 ### Info
+Learned from Shepard Whitney inside hut at 028,094 Wilderness, town just south of the eye .
 ## Alchemy
 ### Info
+Learned from Prof. Hoffman inside building at 120,131 North Hon Woods.
