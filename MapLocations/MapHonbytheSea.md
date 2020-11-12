@@ -2,14 +2,13 @@
 title: Map: Hon by the Sea
 description: 
 published: true
-date: 2020-11-12T21:09:15.102Z
+date: 2020-11-12T21:09:47.341Z
 tags: 
 editor: markdown
 dateCreated: 2020-11-12T12:41:58.261Z
 ---
 
-# Map: Hon by the Sea
-
+## {.tabset}
 ### Places in Town
 | **Location** | Coordinates |
 | :---: | :---: | 
