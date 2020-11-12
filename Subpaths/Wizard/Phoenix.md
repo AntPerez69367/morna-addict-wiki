@@ -2,7 +2,7 @@
 title: Phoenix
 description: Phoenix information
 published: true
-date: 2020-11-12T11:04:09.447Z
+date: 2020-11-12T11:05:03.957Z
 tags: 
 editor: markdown
 dateCreated: 2020-10-07T21:42:08.936Z
@@ -19,10 +19,11 @@ dateCreated: 2020-10-07T21:42:08.936Z
  **Current Elder** - 
  
  **Current Guides:**
- ### Mark Titles
- **Founding/Retired Elders:**
  
-  ### Phoenix Spells
+ **Founding/Retired Elders:**
+ ### Mark Titles
+
+### Phoenix Spells
   | Level | Spell Name | Description | Cost |
 | :---: | :---: | :---: | :---: |
 | 50 | Ride Horse | Summon and ride a Horse | 1 Cannabis Leaf, 1,000 coins |
