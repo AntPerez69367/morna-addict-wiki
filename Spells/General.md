@@ -2,7 +2,7 @@
 title: General Spells
 description: Every class learns these.
 published: true
-date: 2020-11-12T01:30:15.097Z
+date: 2020-11-12T01:37:42.644Z
 tags: 
 editor: markdown
 dateCreated: 2020-10-11T01:55:59.627Z
@@ -115,20 +115,20 @@ dateCreated: 2020-10-11T01:55:59.627Z
 | 99 | Sleep Trap | Put your enemies to sleep | 4 Gold Carrot, 10,000 coins |
 | 99 | Assassinate | Upgrade to Mangle; Burst damage | 1 Whisper Bracelet, 1 Crimson Gauntlet, 1 Cult Staff, 50,000 coins |
 | 99 | Vigor | Heal 1,000 HP | 1 Cannabis Leaf, 25,000 coins | 
-| 99 | Scoundrel's Cunning | Advanced attack damage buff, has 3 tiers | 1 Jag, 1 Run Key (Tiger), 1 Pocketwatch, 50,000 coins |
+| 99 | Scoundrel's Cunning | Advanced attack damage buff, has 6 stages | 1 Jag, 1 Run Key (Tiger), 1 Pocketwatch, 50,000 coins |
 | Mark I | Salvation | Heal 2k HP | 1 Cannabis Leaf, 10,000 coins | 
-| Mark I | Race | Jump 2 spaces | 100,000 coins | 
+| Mark I | Race | Jump 4 spaces | 100,000 coins | 
 | Mark I | Enchant | Enchants weapon to deal additional damage | 2 Head Hunter, 2 Steel Thorn, 1 Jag (Mark I), 40,000 coins |
 | Mark II | Bladestorm | Unleash a massive bladestorm! | 400,000 coins |
-| Mark 2 | Chance | 60% chance to cast invoke! | 5 Gold Carrot, 5 Gold Acorn, 250,000 coins |
+| Mark II | Chance | 60% chance to cast invoke! | 5 Gold Carrot, 5 Gold Acorn, 250,000 coins |
 | Mark II | Shadow's Blade | Enchants your weapon for bonus damage | 4 Head Hunter, 4 Steel Thorn, 1 Jag (Mark II), 60,000 coins |
-| Mark 2 | Dragon's Breath | Heals 3.2k HP | 1 Cannabis Leaf, 25,000 coins | 
-| Mark 2 | Shatter | Your swings strike surrounding mobs | 5 Raw Ruby, 2,000 coins |
+| Mark II | Dragon's Breath | Heals 3.2k HP | 1 Cannabis Leaf, 25,000 coins | 
+| Mark II | Shatter | Your swings strike a cone in front of you | 5 Raw Ruby, 2,000 coins |
 | Mark III | Mending of the Soul | Heal 4k HP | 5 Cannabis Leaf, 2,000 coins |
 | Mark III | Blade's Charm | Enchant your weapon for bonus damage | 80,000 coins |
 | Mark III | Brutality | Expend your life force to attack with Brutality! | 1 Jag, 1 Hack, 600,000 coins |
 | Mark IV | Shadow's Subterfuge | Enchant your weapon for bonus damage | 20 Raw Malchite, 20 Raw Hematite, 100 Raw Sapphire, 100 Raw Ruby, 1 Jag (Mark IV), 450,000 coins | 
-| Mark IV | Storm of Misery | Weaken enemies around you (SC, bosses only) | 500,000 coins | 
+| Mark IV | Storm of Misery | Weaken enemies around you (Vex, bosses only) | 500,000 coins | 
 | Mark IV | Lord's Vigor | Heal 1% of maxmimum Vita | 4 Head Hunter, 4 Steel Thorn, 1 Jag (Mark IV), 450,000 coins | 
 | Mark IV | Swashbuckler Strike | Ambush multiple foes | 1,000,000 coins | 
 | Mark V | Dagger's Polish | Upgraded Enchant | 20 Raw Malchite, 20 Raw Hematite, 100 Raw Sapphire, 100 Raw Ruby, 1 Jag (Mark V), 1,000,000 coins |
