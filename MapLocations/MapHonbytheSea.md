@@ -2,7 +2,7 @@
 title: Map: Hon by the Sea
 description: 
 published: true
-date: 2020-11-12T21:30:54.874Z
+date: 2020-11-13T20:04:15.587Z
 tags: 
 editor: markdown
 dateCreated: 2020-11-12T12:41:58.261Z
@@ -11,7 +11,7 @@ dateCreated: 2020-11-12T12:41:58.261Z
 
 ![hon_by_the_sea.png](/images/hon_by_the_sea.png)
 
-| **Location** | Coordinates |
+| Location | Coordinates |
 | :---: | :---: | 
 |The Tutor |	057,105 |
 |The Quiet Temple |	116,121|
