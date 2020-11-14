@@ -2,7 +2,7 @@
 title: Map: Hon by the Sea
 description: 
 published: true
-date: 2020-11-13T20:04:15.587Z
+date: 2020-11-14T18:39:26.329Z
 tags: 
 editor: markdown
 dateCreated: 2020-11-12T12:41:58.261Z
@@ -10,7 +10,7 @@ dateCreated: 2020-11-12T12:41:58.261Z
 
 
 ![hon_by_the_sea.png](/images/hon_by_the_sea.png)
-
+## Places in Town
 | Location | Coordinates |
 | :---: | :---: | 
 |The Tutor |	057,105 |
@@ -43,4 +43,19 @@ The House Boat |	098,033|
 The Hermits Hut |	130,008|
 The Militia Bunks |	098,005|
 The House of Grace |	058,022 |
-
+## Places to Hunt
+| Location | Coordinates |
+| :---: | :---: | 
+|Honeycomb Cave 	|120,109 (Level 01)|
+|The Hole in the Ground |	062,102 (Level 01)|
+|Earth Works Cave |	064,123 (Level 14)|
+|Fox Hole Cave| 	002,090 (Level 20)|
+|The Bat Sanctuary |	027,012 (Level 09)|
+|The Leech Pass| 	054,002 (Level 31)|
+|The Savage Territory| 	089,001 (Level 20)|
+|Hon City Sewers| 	013,016 (Level 04 Underground)|
+## Subpath Public Areas
+| Location | Coordinates |
+| :---: | :---: |
+| Warlock Public Area |	117,142 (Wizard Subpath)|
+|Arch-Magi Public Area |	005,003 (Wizard Subpath) |
