@@ -2,7 +2,7 @@
 title: Map Locations
 description: 
 published: true
-date: 2020-11-14T19:15:20.587Z
+date: 2020-11-14T19:20:55.432Z
 tags: 
 editor: markdown
 dateCreated: 2020-11-12T11:14:17.676Z
@@ -16,7 +16,7 @@ dateCreated: 2020-11-12T11:14:17.676Z
  - [Woods North of Hon](/en/MapLocations/MapWoodsNorthofHon)
  - [Hon Harbor](/en/MapLocations/HonHarbor)
  - [West Shores of Hon](/en/MapLocations/WestShoresofHon)
- - Shores of Hon
+ - [Shores of Hon](/en/MapLocations/ShoresofHon)
  
  ## Cathay
 Cathay City
