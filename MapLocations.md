@@ -2,7 +2,7 @@
 title: Map Locations
 description: 
 published: true
-date: 2020-11-14T19:20:55.432Z
+date: 2020-11-14T19:50:03.762Z
 tags: 
 editor: markdown
 dateCreated: 2020-11-12T11:14:17.676Z
@@ -19,7 +19,7 @@ dateCreated: 2020-11-12T11:14:17.676Z
  - [Shores of Hon](/en/MapLocations/ShoresofHon)
  
  ## Cathay
-Cathay City
+[Cathay City](/en/MapLocations/CathayCity)
 - East Gate of Cathay
 - Market City
 - Floris
