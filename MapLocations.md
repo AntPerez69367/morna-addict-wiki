@@ -2,7 +2,7 @@
 title: Map Locations
 description: 
 published: true
-date: 2020-11-14T19:50:03.762Z
+date: 2020-11-14T21:41:29.835Z
 tags: 
 editor: markdown
 dateCreated: 2020-11-12T11:14:17.676Z
@@ -20,7 +20,7 @@ dateCreated: 2020-11-12T11:14:17.676Z
  
  ## Cathay
 [Cathay City](/en/MapLocations/CathayCity)
-- East Gate of Cathay
+- [East Gate of Cathay](/en/MapLocations/EastCathay)
 - Market City
 - Floris
 - Gip
