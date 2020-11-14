@@ -1,8 +1,8 @@
 ---
-title: Untitled Page
-description: Cathay City
+title: Cathay City
+description: 
 published: true
-date: 2020-11-14T19:26:34.699Z
+date: 2020-11-14T19:29:58.698Z
 tags: 
 editor: markdown
 dateCreated: 2020-11-14T19:26:34.699Z
@@ -35,3 +35,17 @@ Palace |                   073,054|
 |City Admin.    |       081,057 
 |City Shaman    |     065,057 
 |Guild Building   |    027,026  
+## Places to Hunt
+| Location | Coordinates |
+| :---: | :---: |
+|Icy Hole       |         059,135 (Level 1)|
+Dirt Cave       |       104,023 (Level 4) 
+West Outskirt   |     001,091 (Level 10)|
+South Outskirt   |    077,154 (Level 10)|
+Fox Den          |      030,050 (Level 20)|
+North of Cathay  |  134,001 (Level 20+) |
+## Subpath Public Areas
+| Location | Coordinates |
+| :---: | :---: |
+Vampire Public Area  | 013,005 (Wizard Subpath)|
+Bishop Public Area   |  055,074 (Priest Subpath) |
