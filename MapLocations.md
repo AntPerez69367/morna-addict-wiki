@@ -2,7 +2,7 @@
 title: Map Locations
 description: 
 published: true
-date: 2020-11-13T19:55:37.689Z
+date: 2020-11-14T18:59:01.455Z
 tags: 
 editor: markdown
 dateCreated: 2020-11-12T11:14:17.676Z
@@ -13,7 +13,7 @@ dateCreated: 2020-11-12T11:14:17.676Z
 
 ## Hon
 [Hon by the Sea](/en/MapLocations/MapHonbytheSea)
- - Woods North of Hon
+ - [Woods North of Hon](/en/MapLocations/MapWoodsNorthofHon)
  - Hon Harbor
  - West Shores of Hon
  - Shores of Hon
